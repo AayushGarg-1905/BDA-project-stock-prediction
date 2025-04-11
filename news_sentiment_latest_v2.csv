@@ -1,0 +1,39 @@
+ticker,date,source,headline,vader_score,vader_label
+AAPL,31-01-2025,Yahoo Finance,Apple Stock Price Levels to Watch After Earnings Report as iPhone Upgrades in Focus,0.0,neutral
+AAPL,31-01-2025,GuelphToday,Stock market today: Apple leads as Wall Street shaves off nearly all its loss for the week,-0.3182,negative
+AAPL,31-01-2025,BayToday,Stock market today: Apple leads as Wall Street shaves off nearly all its loss for the week,-0.3182,negative
+AAPL,31-01-2025,ElliotLakeToday.com,Stock market today: Apple leads as Wall Street shaves off nearly all its loss for the week,-0.3182,negative
+AAPL,31-01-2025,BradfordToday,Stock market today: Apple leads as Wall Street shaves off nearly all its loss for the week,-0.3182,negative
+AAPL,31-01-2025,SooToday,Stock market today: Apple leads as Wall Street shaves off nearly all its loss for the week,-0.3182,negative
+AAPL,31-01-2025,Vancouver Is Awesome,Stock market today: Apple leads as Wall Street shaves off nearly all its loss for the week,-0.3182,negative
+AAPL,31-01-2025,CNBC,Jim Cramer's top 10 things to watch in the stock market Friday,0.2023,positive
+AAPL,30-01-2025,Livemint,Apple’s AI moment is still a ways off,0.0,neutral
+AAPL,30-01-2025,Yahoo Finance,Apple to report Q1 earnings a week after stock hit with multiple downgrades,0.0,neutral
+AAPL,28-02-2025,Birmingham Live,Tesco shoppers rushing to stockpile new limited edition Walkers crisps,-0.2263,negative
+AAPL,24-02-2025,Firstpost,Apple to launch new MacBook Air with M4 chip next month,0.0,neutral
+AAPL,20-02-2025,The Motley Fool Canada,"1 Essential ""Magnificent 7"" Stock for Canadian Portfolios",0.5994,positive
+AAPL,20-02-2025,Yahoo Finance,This AI Stock Could Be the Best Investment of the Decade,0.6369,positive
+AAPL,20-02-2025,Motley Fool Australia,3 reasons to buy Apple stock like there's no tomorrow,0.0772,positive
+AAPL,18-02-2025,Motley Fool Australia,Warren Buffett's AI bets: 24% of Berkshire Hathaway's $299 billion stock portfolio is in these 2 artificial intelligence stocks,0.4767,positive
+AAPL,14-02-2025,Yahoo Finance,What Analysts Think of Apple Stock Ahead of Wednesday’s Product Launch,0.0,neutral
+AAPL,10-02-2025,Gizmodo,"Apple AirPods Pro 2 Are at an All-Time Low, but Stock Is Running Low on Amazon",-0.2846,negative
+AAPL,08-02-2025,Tom's Guide,Apple MacBook Air M4 and iPad Air upgrades could follow the iPhone SE 4,0.0,neutral
+AAPL,08-02-2025,Yahoo Finance,King dollar emerges as fresh threat for Big Tech earnings views,-0.2732,negative
+AAPL,25-03-2025,Motley Fool Australia,Apple stock has a growth problem. Is it really worth its premium valuation?,0.2716,positive
+AAPL,24-03-2025,Birmingham Live,Apple AirPods Pro 2 slashed in Amazon Lightning Deal - but they're selling fast,-0.0258,neutral
+AAPL,21-03-2025,Wccftech,"The Midnight Version Of Apple’s Older-Generation M2 MacBook Air With 16GB Unified RAM is Available For $699.99, But The Deal Will Only Remain Until Stock Lasts",0.2023,positive
+AAPL,18-03-2025,Yahoo Canada Finance,Apple stock rout shaves nearly $700 billion from market cap since record close,0.0,neutral
+AAPL,18-03-2025,Yahoo Finance,Apple stock rout shaves nearly $700 billion from market cap since record close,0.0,neutral
+AAPL,17-03-2025,The Mercury News,Apple’s worst week since 2022 spurs Wall Street to defend stock,-0.6249,negative
+AAPL,12-03-2025,Yahoo Finance,"Morgan Stanley cut Apple price target over tariffs, Siri AI delay",-0.5267,negative
+AAPL,10-03-2025,CNBC,Cramer explains what Apple investors should do with the sinking stock,0.0,neutral
+AAPL,11-04-2025,Motley Fool Australia,Microsoft stock or Apple shares: Which is the world's largest company after Trump's tariffs?,0.296,positive
+AAPL,10-04-2025,The Motley Fool Canada,Billionaires Are Selling Apple Stock and Buying This TSX Stock in Bulk,0.0,neutral
+AAPL,09-04-2025,New York Post,'Pray to God that we all survive',0.5267,positive
+AAPL,09-04-2025,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
+AAPL,09-04-2025,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
+AAPL,07-04-2025,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
+AAPL,07-04-2025,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
+AAPL,04-04-2025,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
+AAPL,04-04-2025,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
+AAPL,03-04-2025,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
