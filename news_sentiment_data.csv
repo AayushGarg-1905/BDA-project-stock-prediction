@@ -1,0 +1,294 @@
+ticker,date,source,headline,vader_score,vader_label
+AAPL,2025-04-08,CBS News,"Trump tariffs could have ""devastating impact,"" small businesses say",-0.6486,negative
+AAPL,2025-04-08,Wired,Even Streaming Services Might Be Hurt by Trump’s Tariffs,-0.5267,negative
+AAPL,2025-04-08,CNBC,Tech analyst responds to Trump wanting Apple to make iPhones in U.S.: 'I don't think that's a thing',0.0,neutral
+AAPL,2025-04-08,Yahoo Entertainment,"Apple's Post-Earnings Slide May Offer Strong Entry Point, Analyst Notes",0.5106,positive
+AAPL,2025-04-08,CNET,Will the iPhone Really Cost More Than $3K After Trump's Tariffs Start Tomorrow?,0.0,neutral
+AAPL,2025-04-08,Biztoc.com,US tech firms grapple with increasing uncertainty under Trump,-0.34,negative
+AAPL,2025-04-08,9to5Toys,"Apple’s upgraded M4 Mac mini configs just fell back to Amazon lows: 16GB/512GB at $699 or 24GB model at $899 ($100 off), more",-0.0258,neutral
+AAPL,2025-04-08,Biztoc.com,Apple Stock Is Dropping. Trump Wants iPhones to Be Built in U.S,0.0,neutral
+AAPL,2025-04-08,Wccftech,"Apple Will Target The Vlogging Community With A Dual Video Recording Feature On The iPhone17 Pro, But Samsung Did It More Than A Decade Ago",0.0,neutral
+AAPL,2025-04-08,TheJournal.ie,Parenting: The pearl clutching over hot school lunches is a bit much — at least they're eating,0.0,neutral
+AAPL,2025-04-08,Yahoo Entertainment,Apple stock drops 5% after Trump administration confirms China tariffs to reach 104%,0.0258,neutral
+AAPL,2025-04-08,Yahoo Entertainment,Apple stock drops after Trump administration confirms China tariffs to reach 104% starting Wednesday,0.0258,neutral
+AAPL,2025-04-08,Yahoo Entertainment,Apple stock drops after Trump admin says it will increase Chinese tariff to 104%,0.3182,positive
+AAPL,2025-04-08,Biztoc.com,"From Apple to Samsung, Trump's tariffs force supply chains to adapt -- fast",0.0,neutral
+AAPL,2025-04-08,KQED,"Trump Tariffs Shake World Economy, Rattling Silicon Valley",-0.1779,negative
+AAPL,2025-04-08,Rolling Stone,How Trump’s Tariffs Will Impact Gaming,0.0,neutral
+AAPL,2025-04-08,Business Insider,Where Wall Street is seeing bargains amid tariff-depleted areas of the stock market,0.0,neutral
+AAPL,2025-04-08,Wccftech,Apple Shares Trim 3%+ Drop As White House Confirms 104% Tariffs Against China Go Into Effect Tonight At Midnight,0.0258,neutral
+AAPL,2025-04-08,Biztoc.com,"Apple, Nvidia, Broadcom, Humana, CVS, Tesla, Super Micro, Marvell, and More Market Movers",0.5994,positive
+AAPL,2025-04-08,TechSpot,Apple's China exposure makes it most vulnerable in US-China trade war,-0.7264,negative
+AAPL,2025-04-08,The Mac Observer,From Toilet Paper to iPhones: Does Panic-Buying Ever Actually Work?,0.0,neutral
+AAPL,2025-04-08,Superpunch.net,Today's news and jokes,0.25,positive
+AAPL,2025-04-08,9to5google.com,"Deals: New Samsung 3D/OLED Odyssey monitors w/ $300 credits, S25 Ultra $200 off, Galaxy Tab A9+ $158, more",0.3612,positive
+AAPL,2025-04-08,Quartz India,"Tesla, Microsoft, and Meta follow Nvidia in Magnificent 7 stock rally",0.5994,positive
+AAPL,2025-04-08,Wccftech,Panic Buying Erupts As Customers In The U.S. Rush To Buy Apple iPhones Before Trump’s Import Tax Causes Major Price Hike Starting Tomorrow,-0.5106,negative
+AAPL,2025-04-08,9to5Mac,"Deals: M4 MacBook Pro $200 off or M4 Pro $300 off, M3 MacBook Air $550 off orig. price, Apple Watch Ultra 2, more",0.0,neutral
+AAPL,2025-04-08,PCWorld,This Core 5 laptop with 16GB RAM is a budget-friendly steal for $384,-0.4939,negative
+AAPL,2025-04-08,Biztoc.com,Kenya Cuts Key Rate by More Than Expected Amid Tariff Worries,-0.6124,negative
+AAPL,2025-04-08,Biztoc.com,The Musk Associates Running the Government — Even After He’s Gone,0.0,neutral
+AAPL,2025-04-08,Biztoc.com,Stocks Are Off Session Highs. The Dow Is Still Up 800 Points,0.0,neutral
+AAPL,2025-04-08,Biztoc.com,Hungarians Ramp Up Protests Against Orban’s Crackdown on Dissent,-0.2263,negative
+AAPL,2025-04-08,New York Post,Apple customers reportedly scrambling to upgrade iPhones before tariff price hikes kick in,0.0,neutral
+AAPL,2025-04-08,Macdailynews.com,"Apple stock bounces; U.S. stocks rally as tariff fears subside, Dow jumps",-0.4215,negative
+AAPL,2025-04-08,Biztoc.com,The Worst Defense of Trump’s Tariffs,-0.5574,negative
+AAPL,2025-04-08,Biztoc.com,No Clear Winner in Supreme Court’s Alien Enemies Act Ruling,-0.5935,negative
+AAPL,2025-04-08,Biztoc.com,"Apple Exported $17 Billion in iPhones From India Last Year, Minister Says",0.0,neutral
+AAPL,2025-04-08,Newser,You Don't Want to Know How Much an iPhone May Soon Cost,-0.0572,negative
+AAPL,2025-04-08,Freerepublic.com,"Analyst says Apple, Tesla have biggest exposure to Trump’s tariffs",0.0,neutral
+AAPL,2025-04-08,Biztoc.com,"Brazilians wager up to $5.1 billion a month on online betting, central bank says",0.0,neutral
+AAPL,2025-04-08,Biztoc.com,Boeing Closes In on Airbus With Strong First-Quarter Deliveries,0.5106,positive
+AAPL,2025-04-08,Biztoc.com,Apple Stock Rises Despite Getting Two Negative Reports,0.4585,positive
+AAPL,2025-04-08,Biztoc.com,Starmer Criticizes UK Budget Watchdog Over Welfare Assessment,-0.34,negative
+AAPL,2025-04-08,Biztoc.com,Trillions down the drain. Trump’s top trade adviser remains unbothered,0.2023,positive
+AAPL,2025-04-08,Biztoc.com,Warren Buffett Says Knowing When the Stock Market Is Going to Crash Is Meaningless: ‘Predicting Rain Doesn’t Count. Building Arks Does.’,-0.6808,negative
+AAPL,2025-04-08,Biztoc.com,US CFPB asks to exit Biden-era case against MoneyGram,0.0,neutral
+AAPL,2025-04-08,Neowin,Apple might take a page from Samsung's 2013 playbook for the iPhone 17 Pro camera,0.0,neutral
+AAPL,2025-04-08,The Mac Observer,Is Apple Using Tariff Panic to Boost iPhone Sales?,-0.1531,negative
+AAPL,2025-04-08,The Times of India,"U.S. stock market today: Market rallies - Dow jumps 1,400 pts, Nasdaq up 3.6%, S&P 500 gains 3.4%; Apple, Tesla, Nvidia lead tech rally on easing trade fears and bullish sentiment — Is this the start of a sustained market comeback?",0.1531,positive
+AAPL,2025-04-08,Macdailynews.com,President Trump’s U.S. import tariffs spur iPhone sales rush,0.0,neutral
+AAPL,2025-04-08,Cult of Mac,Customers worried about price hikes pack Apple Stores to buy iPhones,-0.296,negative
+AAPL,2025-04-08,Financial Post,U.S. stocks roar back as dip buyers emerge after three-day selloff,0.0,neutral
+AAPL,2025-04-08,Biztoc.com,"Prediction: After Losing Over $1 Trillion in Market Cap This Year, Nvidia Stock Will Rebound in Epic Fashion. Here's Why",-0.3818,negative
+AAPL,2025-04-08,Slashdot.org,"Dow Jones Futures Jump 1,200 Points On Trump Tariff News; Apple, Nvidia, Tesla Rally - Investor's Business Daily",0.0,neutral
+AAPL,2025-04-08,Dailyreckoning.com,Trump Triggers Tariff Tantrum,-0.4215,negative
+AAPL,2025-04-08,Quartz India,"Americans face a 'Category 5 Price Storm' from China tariffs, analyst says",0.0,neutral
+AAPL,2025-04-08,Financial Post,China vows ‘fight to the end’ on tariffs as Trump threatens another 50% duty hike,-0.3818,negative
+AAPL,2025-04-08,Business Insider,Markets aren't out of the woods yet,0.0,neutral
+AAPL,2025-04-08,The Times of India,"Aswath Damodaran outlines 4-step playbook amid tariff turmoil, begins revaluing magnificent five stocks",0.34,positive
+AAPL,2025-04-08,Biztoc.com,"Dow Jones Futures Jump 1,200 Points On Trump Tariff News; Apple, Nvidia, Tesla Rally",0.0,neutral
+AAPL,2025-04-08,AppleInsider,"Apple shares clawing back, after $638 billion in value is destroyed",0.1027,positive
+AAPL,2025-04-08,Biztoc.com,How Stock Options Traders See Apple’s (AAPL) Death Cross,-0.5994,negative
+AAPL,2025-04-08,Ritholtz.com,"Transcript: Lisa Shalett, CIO Morgan Stanley",0.0,neutral
+AAPL,2025-04-08,RT,Apple staged emergency iPhone airlift from India – media,-0.3818,negative
+AAPL,2025-04-08,MacRumors,How to Get the Old Apple Mail Back,0.0,neutral
+AAPL,2025-04-08,Yahoo Entertainment,How Stock Options Traders See Apple’s (AAPL) Death Cross,-0.5994,negative
+AAPL,2025-04-08,Financial Post,"Posthaste: Americans are scrambling to stock up at Costco, Best Buy before tariffs jack up prices",0.6369,positive
+AAPL,2025-04-08,Financial Post,Abaxx Provides Q1 2025 Corporate Update,0.0,neutral
+AAPL,2025-04-08,9to5Toys,"Amazon clears out upgraded 24GB 15-inch M3 MacBook Airs at the $1,349 low ($550 under the orig. price), more",-0.0258,neutral
+AAPL,2025-04-08,GlobeNewswire,Abaxx Provides Q1 2025 Corporate Update,0.0,neutral
+AAPL,2025-04-08,Macworld,How President Trump’s tariffs will impact the price of Apple products,0.0,neutral
+AAPL,2025-04-08,Biztoc.com,"As DEI Fades at Tech Firms, Women Are Still Uncommon in the Executive Suite",0.0,neutral
+AAPL,2025-04-08,Biztoc.com,Where Will Super Micro Computer Stock Be in 1 Year?,0.5994,positive
+AAPL,2025-04-08,Biztoc.com,Trump’s Tariffs Collide With Deepening China Shock,-0.4404,negative
+AAPL,2025-04-08,Biztoc.com,Japan Scores Top Spot in Line for US Tariff Talks,0.2023,positive
+AAPL,2025-04-08,Biztoc.com,"RFK Jr.’s Measles Message is Too Little, Too Late",0.0,neutral
+AAPL,2025-04-08,Biztoc.com,Stock Market Fear Gauge Retreats but Remains Elevated,-0.2732,negative
+AAPL,2025-04-08,Biztoc.com,RTX Corporation Earnings Preview: What to Expect,0.0,neutral
+AAPL,2025-04-08,Biztoc.com,Trump is trying to reinvent 1950 with his tariffs. He should be planning for 2050,0.0,neutral
+AAPL,2025-04-08,The Atlantic,The Relentless Rise of Jensen Huang,0.0516,positive
+AAPL,2025-04-08,Nakedcapitalism.com,Links 4/8/2025,0.0,neutral
+AAPL,2025-04-08,Biztoc.com,"Thailand to increase US imports, lower taxes in tariff response",0.0258,neutral
+AAPL,2025-04-08,Biztoc.com,"Analysts: the original Switch's huge success has given Nintendo a high mountain to climb, and the Switch 2 is a massive bet that fans want more of the same",0.8225,positive
+AAPL,2025-04-08,Biztoc.com,Andy Beshear on how Dems can hammer Trump over tariffs,0.0,neutral
+AAPL,2025-04-08,Biztoc.com,"Drugmakers warn EU that US tariffs further weaken sector in Europe, sources say",-0.4939,negative
+AAPL,2025-04-08,Biztoc.com,Morgan Stanley cuts U.S. growth outlook again as tariff pressure looms large,-0.34,negative
+AAPL,2025-04-08,Biztoc.com,"Samsung reports Q1 revenue up ~10% YoY to ~$53.4B and operating profit flat YoY at ~$4.5B, above ~$3.8B est., boosted by Galaxy S25 and legacy DRAM sales",0.6597,positive
+AAPL,2025-04-08,Biztoc.com,US Bonds Stabilize After Choppiest Day of Trading in Five Years,0.0,neutral
+AAPL,2025-04-08,Biztoc.com,What to Expect From Chipotle Mexican Grill's Q1 2025 Earnings Report,0.0,neutral
+AAPL,2025-04-08,Biztoc.com,Trump Tariff Talks Give Stock Market Hope. What It Needs to Bounce Back and 4 Other Things to Know Today,0.4404,positive
+AAPL,2025-04-08,Biztoc.com,"Interviews with 40 sources describe concerns about Helsing, Europe's most valuable defense tech startup, including whether it can live up to its €5B valuation",0.6335,positive
+AAPL,2025-04-08,Biztoc.com,"Sources: Beijing opposes fast-fashion giant Shein's plans to move some production out of China, as it seeks to stave off a manufacturing exodus after US tariffs",0.0,neutral
+AAPL,2025-04-08,Biztoc.com,"Stocks to Watch Tuesday: Nvidia, TSMC, Toyota, Levi",0.0,neutral
+AAPL,2025-04-08,Biztoc.com,What Is a Bear Market? Are We in One Now?,0.0,neutral
+AAPL,2025-04-08,Biztoc.com,"Ireland and UK Face High Wildfire Risks After Dry, Warm Weather",-0.0516,negative
+AAPL,2025-04-08,Biztoc.com,Apple’s Historic Selloff Has Bulls Balking From Tariff Risks,-0.2732,negative
+AAPL,2025-04-08,Biztoc.com,Pakistan’s National Airline Set for First Profit in Two Decades,0.4404,positive
+GOOGL,2025-04-08,Snopes.com,No proof Trump sold $2.3B in Truth Social stock before April 2 tariffs announcement,0.0258,neutral
+GOOGL,2025-04-08,Toolguyd.com,Cordless Power Tool Stock Prices Moved with Tariff News,0.0,neutral
+GOOGL,2025-04-08,SiliconANGLE News,Amazon debuts new Amazon Nova Sonic voice model,0.34,positive
+GOOGL,2025-04-08,9to5Toys,"Apple’s upgraded M4 Mac mini configs just fell back to Amazon lows: 16GB/512GB at $699 or 24GB model at $899 ($100 off), more",-0.0258,neutral
+GOOGL,2025-04-08,9to5Toys,"Today’s Android app deals and freebies: Railroad Ink Challenge, FRAMED 2, Whispering Willows, more",0.4767,positive
+GOOGL,2025-04-08,KQED,"Trump Tariffs Shake World Economy, Rattling Silicon Valley",-0.1779,negative
+GOOGL,2025-04-08,New York Post,"Bill Ackman defends Trump tariffs after warning the world was on brink of ‘economic nuclear winter,’ attacking Commerce secretary",-0.6597,negative
+GOOGL,2025-04-08,Android Central,Good Lock is the one thing that makes Samsung Galaxy devices truly unique,0.7003,positive
+GOOGL,2025-04-08,9to5Toys,"Improve oral hygiene with the Philips Sonicare ProtectiveClean 5300 electric toothbrush at $80 (Reg. $110), more from $25",0.4404,positive
+GOOGL,2025-04-08,Slickdeals.net,Midea 29.3 cu. ft. French Door Bottom Freezer in Stainless Steel with 2y warranty and delivery/install/haul away $700,0.0,neutral
+GOOGL,2025-04-08,9to5google.com,"Deals: New Samsung 3D/OLED Odyssey monitors w/ $300 credits, S25 Ultra $200 off, Galaxy Tab A9+ $158, more",0.3612,positive
+GOOGL,2025-04-08,Forbes,Is Nvidia Stock Too Cheap?,0.0,neutral
+GOOGL,2025-04-08,The Daily Dot,Newsletter:  Memes rise as stock market tanks,0.0,neutral
+GOOGL,2025-04-08,9to5Toys,Score a big-time 45% off this 6-gallon Stanley wet/dry shop vac at $45 for today only,0.0,neutral
+GOOGL,2025-04-08,Yahoo Entertainment,The 5 Best Stocks For Investing Your Tax Refund,0.6369,positive
+GOOGL,2025-04-08,Yahoo Entertainment,ClearBridge Large Cap Growth Strategy Increased its Stake in Alphabet (GOOG) in Q1,0.5719,positive
+GOOGL,2025-04-08,9to5Toys,"This already-affordable 5-pack of 6.6-foot USB-C cables just fell further, now just $1.50 each",0.0,neutral
+GOOGL,2025-04-08,Yahoo Entertainment,"Nvidia And Google Bet Big On Quantum AI With $150M Investment In SandboxAQ, Raising Series E Round To $450 Million",0.0,neutral
+GOOGL,2025-04-08,MarketingProfs.com,Prompt Engineering: Befriending AI Before Its World Domination,-0.0516,negative
+GOOGL,2025-04-08,Yahoo Entertainment,"META, GOOG Named as Potential Buys by Veteran Investor",0.0,neutral
+GOOGL,2025-04-08,The Conversation Africa,The founder kings of Silicon Valley: Dual-class stock gives US social media company controllers nearly as much power as ByteDance has over TikTok,0.0,neutral
+GOOGL,2025-04-08,Phandroid - News for Android,Save 54% on the Pixel 8 Pro Refurbished — Now Only $415!,0.5411,positive
+GOOGL,2025-04-08,Search Engine Journal,"How To Plan PPC Campaigns For SaaS Marketing & Think Strategically via @sejournal, @timothyjjensen",0.0,neutral
+GOOGL,2025-04-08,Financial Post,Abaxx Provides Q1 2025 Corporate Update,0.0,neutral
+GOOGL,2025-04-08,9to5Toys,"Amazon clears out upgraded 24GB 15-inch M3 MacBook Airs at the $1,349 low ($550 under the orig. price), more",-0.0258,neutral
+GOOGL,2025-04-08,GlobeNewswire,Abaxx Provides Q1 2025 Corporate Update,0.0,neutral
+GOOGL,2025-04-08,TheJournal.ie,How one tweet sent the US stock market on a $2.4 trillion rollercoaster over false tariff claims,0.0,neutral
+GOOGL,2025-04-08,Nakedcapitalism.com,Links 4/8/2025,0.0,neutral
+GOOGL,2025-04-08,Biztoc.com,"Down 55%, Should You Buy the Dip on IonQ Stock?",0.0,neutral
+GOOGL,2025-04-08,ETF Daily News,Alphabet Inc. (NASDAQ:GOOGL) Position Raised by CIBC Private Wealth Group LLC,0.4939,positive
+GOOGL,2025-04-08,ETF Daily News,Joseph Group Capital Management Boosts Holdings in Alphabet Inc. (NASDAQ:GOOGL),0.3182,positive
+GOOGL,2025-04-08,ETF Daily News,Mawer Investment Management Ltd. Lowers Stake in Alphabet Inc. (NASDAQ:GOOGL),-0.128,negative
+GOOGL,2025-04-08,9to5Toys,"Apple’s new 512GB 11-inch iPad Air just hit a new Amazon all-time low, more from $549 or up to $650 off with trade",-0.1027,negative
+GOOGL,2025-04-08,9to5Toys,Samsung re-stocks all Galaxy S25 Ultra colors and knocks $200 off with no trade needed,-0.296,negative
+GOOGL,2025-04-08,9to5Toys,"Apple’s most-affordable 14-inch M4 MacBook Pro is up to $200 off, 48GB 16-inch over $300 off",0.0,neutral
+GOOGL,2025-04-08,ETF Daily News,"SCP Investment LP Purchases 35,000 Shares of Alphabet Inc. (NASDAQ:GOOGL)",0.296,positive
+GOOGL,2025-04-08,ETF Daily News,"Barrow Hanley Mewhinney & Strauss LLC Sells 19,791 Shares of Alphabet Inc. (NASDAQ:GOOGL)",0.296,positive
+GOOGL,2025-04-08,ETF Daily News,Alphabet Inc. (NASDAQ:GOOGL) is California Public Employees Retirement System’s 9th Largest Position,0.0,neutral
+GOOGL,2025-04-08,ETF Daily News,Alphabet Inc. (NASDAQ:GOOGL) is Charter Research & Investment Group Inc.’s 2nd Largest Position,0.0,neutral
+GOOGL,2025-04-08,ETF Daily News,Watchman Group Inc. Sells 192 Shares of Alphabet Inc. (NASDAQ:GOOGL),0.296,positive
+GOOGL,2025-04-08,ETF Daily News,Alphabet Inc. (NASDAQ:GOOGL) Stock Position Lessened by Varenne Capital Partners,0.0,neutral
+GOOGL,2025-04-08,Wpbeginner.com,16 Best Course Creation Software and Tools (Expert Picks for 2025),0.743,positive
+GOOGL,2025-04-08,ETF Daily News,United Bank Grows Stake in Alphabet Inc. (NASDAQ:GOOGL),0.4215,positive
+GOOGL,2025-04-08,ETF Daily News,Healthcare Stocks To Follow Now – April 5th,0.0,neutral
+GOOGL,2025-04-08,ETF Daily News,"Bullseye Investment Management LLC Takes $503,000 Position in Alphabet Inc. (NASDAQ:GOOGL)",0.0,neutral
+GOOGL,2025-04-08,ETF Daily News,"Alphabet Inc. (NASDAQ:GOOGL) CEO Sells $5,153,200.00 in Stock",0.0,neutral
+GOOGL,2025-04-08,ETF Daily News,Alphabet Inc. (NASDAQ:GOOGL) Stock Position Reduced by Walled Lake Planning & Wealth Management LLC,0.4939,positive
+GOOGL,2025-04-08,ETF Daily News,L & S Advisors Inc Has $10.38 Million Holdings in Alphabet Inc. (NASDAQ:GOOGL),0.5766,positive
+GOOGL,2025-04-08,ETF Daily News,Clearbridge Investments LLC Raises Stock Holdings in Alphabet Inc. (NASDAQ:GOOGL),0.0,neutral
+GOOGL,2025-04-08,ETF Daily News,Promising Cybersecurity Stocks Worth Watching – April 5th,0.5574,positive
+GOOGL,2025-04-08,Gizchina.com,Nintendo Switch 2 pre-orders hit by scalper surge as eBay prices soar,0.0,neutral
+GOOGL,2025-04-08,Slashdot.org,The Stock Market Has Crashed Following President Trump's Tariffs. History Says This Will Happen Next. - The Motley Fool,-0.4404,negative
+GOOGL,2025-04-08,ETF Daily News,"464,806 Shares in Alphabet Inc. (NASDAQ:GOOGL) Purchased by Allianz SE",0.296,positive
+GOOGL,2025-04-08,ETF Daily News,"Mitchell Sinkler & Starr PA Buys 2,341 Shares of Alphabet Inc. (NASDAQ:GOOGL)",0.296,positive
+GOOGL,2025-04-08,ETF Daily News,Cornercap Investment Counsel Inc. Has $1.78 Million Position in Alphabet Inc. (NASDAQ:GOOGL),0.0,neutral
+GOOGL,2025-04-08,ETF Daily News,"Arrowstreet Capital Limited Partnership Buys 21,965 Shares of Alphabet Inc. (NASDAQ:GOOGL)",0.0772,positive
+GOOGL,2025-04-08,ETF Daily News,"BlueChip Wealth Advisors LLC Sells 1,646 Shares of Alphabet Inc. (NASDAQ:GOOGL)",0.6597,positive
+GOOGL,2025-04-08,ETF Daily News,Best Blockchain Stocks To Add to Your Watchlist – April 5th,0.6369,positive
+GOOGL,2025-04-08,ETF Daily News,Alphabet Inc. (NASDAQ:GOOGL) is Schroder Investment Management Group’s 3rd Largest Position,0.0,neutral
+GOOGL,2025-04-08,ETF Daily News,Bandwidth Inc. (NASDAQ:BAND) Shares Bought by Arrowstreet Capital Limited Partnership,0.0772,positive
+GOOGL,2025-04-08,Rand.org,More Districts Are Training Teachers on Artificial Intelligence,0.4767,positive
+GOOGL,2025-04-08,ETF Daily News,Top Social Media Stocks To Follow Today – April 6th,0.2023,positive
+GOOGL,2025-04-08,ETF Daily News,Healthcare Stocks To Follow Now – April 6th,0.0,neutral
+GOOGL,2025-04-08,ABC News (AU),Seeing stock market headlines but don't get the lingo? Here's what it means,0.0,neutral
+GOOGL,2025-04-08,Cointelegraph,Wall Street is suffering a stinky meltdown while Fartcoin is up 30%,-0.6808,negative
+GOOGL,2025-04-08,Cointelegraph,Mike Novogratz’s Galaxy Digital gets SEC nod for Nasdaq listing,0.0,neutral
+GOOGL,2025-04-08,Erickimphotography.com,Start Here Archive,0.0,neutral
+GOOGL,2025-04-08,Kenklippenstein.com,REPORT: Unprecedented number of B-2 bombers amassed for Iran strike...,-0.0516,negative
+GOOGL,2025-04-08,The Times of India,Startups rethink IPOs; US visa dilemma for students,-0.1779,negative
+GOOGL,2025-04-08,The Times of India,There could be geopolitical tension over AI,-0.3182,negative
+GOOGL,2025-04-08,Rust-lang.org,March Project Goals Update,0.0,neutral
+GOOGL,2025-04-07,Theeconomiccollapseblog.com,Are You Ready To Pay A 104% Tariff On All Products From China?,0.2732,positive
+GOOGL,2025-04-07,Android Police,One UI 7 makes Samsung’s weather app smarter,0.4588,positive
+GOOGL,2025-04-07,Cointelegraph,"Former Kraken execs acquire real state firm Janover, disclose SOL treasury plans",0.2023,positive
+GOOGL,2025-04-07,Biztoc.com,Even Google Could Feel the Sting of a Trade War,-0.5994,negative
+GOOGL,2025-04-07,Decrypt,Bitcoin Strengthens Against ‘Magnificent 7’ Stocks as Wall Street Quakes,0.4588,positive
+GOOGL,2025-04-07,GlobeNewswire,"AppLovin Corporation (APP) Market Value Craters $20 Billion On March 27 After Muddy Waters Takes Aim, Class Action Pending – Hagens Berman",0.34,positive
+GOOGL,2025-04-07,Cointelegraph,"Bitcoin, showing 'signs of resilience', beats stocks, gold as equities fold — Binance",0.0,neutral
+GOOGL,2025-04-07,Us Weekly,"5 Hot Stories: Meredith Gaudreau Gives Birth, Meghan Markle Apologizes",0.3612,positive
+GOOGL,2025-04-07,New York Post,BlackRock’s Larry Fink says most CEOs he talks to think US is in a recession as markets roiled by Trump tariffs,-0.4215,negative
+GOOGL,2025-04-07,NPR,Tariffs are fueling fears of a recession. What does it take to actually declare one?,-0.6808,negative
+GOOGL,2025-04-07,Biztoc.com,"Is Google Stock a Buy, Sell, or Hold on Potential CoreWeave GPU Deal?",0.0,neutral
+GOOGL,2025-04-07,The Drum,The most immersive ad platform yet? Why brands should take Roblox seriously post-Google deal,-0.1779,negative
+GOOGL,2025-04-07,redmondpie.com,How To Create Stunning Social Media Ads On Mac With Wondershare Filmora (Even If You’re A Beginner),0.5719,positive
+GOOGL,2025-04-07,Biztoc.com,"GOOG Stock Could Be the “Steal of the Century,” Veteran Investor Says",0.0,neutral
+GOOGL,2025-04-07,Forbes,Samsung’s Android 15 Decision—Change New Setting Before You Upgrade,0.0,neutral
+GOOGL,2025-04-07,Slashdot.org,Stock markets lurch on false Trump tariff pause report - Axios,0.0,neutral
+GOOGL,2025-04-07,Biztoc.com,"Apple Takes the Biggest Hit of the ""Magnificent Seven"" in Response to Trump Tariffs",0.5994,positive
+GOOGL,2025-04-07,CNET,Buy or Wait Guide: 11 Experts Predict How Tariffs Will Change Tech Prices in 2025 and What to Do Now,0.0,neutral
+GOOGL,2025-04-07,9to5Toys,Grab four W DiamondClean replacement heads for your Philips Sonicare electric toothbrush at $6.40 each,0.0,neutral
+GOOGL,2025-04-07,PCMag.com,Google Expands Its Conversational 'AI Mode' Search Option,0.1027,positive
+GOOGL,2025-04-07,PCMag.com,Google Expands Its Conversational 'AI Mode' Search Option,0.1027,positive
+GOOGL,2025-04-07,9to5Toys,It’s back: Twelve South’s near-perfect 15W 3-in-1 HiRise 3 Deluxe MagSafe stand now at $100 Amazon low (33% off),-0.1027,negative
+GOOGL,2025-04-07,Yahoo Entertainment,"Will.i.am Says Passing on Airbnb Was a '$80 Million Wrong Decision'—'Ballin', I Would Have Been, Now I'm Like Bawlin'",-0.1531,negative
+GOOGL,2025-04-07,Slashdot.org,Stock market goes haywire with massive swings after ‘fake news’ reports about future of Trump’s tariff plan - The Independent,0.0,neutral
+GOOGL,2025-04-07,Finovate.com,Fintech Rundown: A Rapid Weekly Review of News,0.0,neutral
+GOOGL,2025-04-07,Finovate.com,Fintech Rundown: A Rapid Review of Weekly News,0.0,neutral
+MSFT,2025-04-08,Rolling Stone,How Trump’s Tariffs Will Impact Gaming,0.0,neutral
+MSFT,2025-04-08,The Irish Times,Global markets jump after three days of heavy selling,0.0,neutral
+MSFT,2025-04-08,New Zealand Herald,On The Up: The Kiwis who made good in tech and are now backing a new generation of start-ups,0.4588,positive
+MSFT,2025-04-08,TechSpot,Apple's China exposure makes it most vulnerable in US-China trade war,-0.7264,negative
+MSFT,2025-04-08,TheStranger.com,"Slog AM: Trump Admin Attacks Students, Microsoft Protestors Fired, Dire Wolves are Back Among Us",-0.8591,negative
+MSFT,2025-04-08,Forbes,How Businesses Are Dealing With Impending Tariffs,0.0,neutral
+MSFT,2025-04-08,Project Syndicate,There Is No Method to Trump’s Tariff Madness,-0.6249,negative
+MSFT,2025-04-08,Quartz India,"Tesla, Microsoft, and Meta follow Nvidia in Magnificent 7 stock rally",0.5994,positive
+MSFT,2025-04-08,CNBC,"Jenny Harrington: The basics of income investing, and why it's especially important now in this turbulent market",0.2716,positive
+MSFT,2025-04-08,Quartz India,Nvidia stock pops 8% as chip stocks rise on hopes for tariff relief,0.7096,positive
+MSFT,2025-04-08,GameSpot,"Switch 2 Is Unaffordable To Some, Nintendo Admits, And It Might Soon Get More Expensive",0.296,positive
+MSFT,2025-04-08,Biztoc.com,"Prediction: After Losing Over $1 Trillion in Market Cap This Year, Nvidia Stock Will Rebound in Epic Fashion. Here's Why",-0.3818,negative
+MSFT,2025-04-08,Quartz India,"Americans face a 'Category 5 Price Storm' from China tariffs, analyst says",0.0,neutral
+MSFT,2025-04-08,The Times of India,"Aswath Damodaran outlines 4-step playbook amid tariff turmoil, begins revaluing magnificent five stocks",0.34,positive
+MSFT,2025-04-08,AppleInsider,"Apple shares clawing back, after $638 billion in value is destroyed",0.1027,positive
+MSFT,2025-04-08,Search Engine Journal,"How To Plan PPC Campaigns For SaaS Marketing & Think Strategically via @sejournal, @timothyjjensen",0.0,neutral
+MSFT,2025-04-08,Biztoc.com,Microsoft’s Expensive Data Center Expansion Hits a Roadblock,0.0,neutral
+MSFT,2025-04-08,The Atlantic,The Relentless Rise of Jensen Huang,0.0516,positive
+MSFT,2025-04-08,PCWorld,Framework ‘pauses’ some laptop sales in response to tariffs,0.0,neutral
+MSFT,2025-04-08,Rock Paper Shotgun,"Helldivers 2 CEO slams the games industry layoff wave, saying that bosses are making ""regular devs"" pay for their screw-ups",-0.1027,negative
+MSFT,2025-04-08,Roanoke Times,CASEY: Congress can act to reverse the stock market’s ‘Trump Plunge',0.0,neutral
+MSFT,2025-04-08,UploadVR,Train Sim World VR: New York Makes Driving Trains Fun For All,0.5106,positive
+MSFT,2025-04-08,Kaspersky.com,A brief overview of the main incidents in industrial cybersecurity. Q4 2024,0.0,neutral
+MSFT,2025-04-08,ETF Daily News,Best Blockchain Stocks To Add to Your Watchlist – April 5th,0.6369,positive
+MSFT,2025-04-08,ETF Daily News,Promising Large Cap Stocks To Watch Today – April 6th,0.4019,positive
+MSFT,2025-04-08,ETF Daily News,Microsoft Co. (NASDAQ:MSFT) Shares Purchased by Stephens Inc. AR,0.296,positive
+MSFT,2025-04-08,ETF Daily News,"Howland Capital Management LLC Sells 4,330 Shares of Microsoft Co. (NASDAQ:MSFT)",0.296,positive
+MSFT,2025-04-08,ETF Daily News,Bandwidth Inc. (NASDAQ:BAND) Shares Bought by Arrowstreet Capital Limited Partnership,0.0772,positive
+MSFT,2025-04-08,CBC News,"As tariffs roil the markets, here's why some sectors are faring worse than others",-0.4767,negative
+MSFT,2025-04-08,ETF Daily News,Microsoft Co. (NASDAQ:MSFT) is Moser Wealth Advisors LLC’s Largest Position,0.4939,positive
+MSFT,2025-04-08,ETF Daily News,Newbridge Financial Services Group Inc. Has $12.83 Million Stock Position in Microsoft Co. (NASDAQ:MSFT),0.0,neutral
+MSFT,2025-04-08,ETF Daily News,Microsoft Co. (NASDAQ:MSFT) Shares Sold by RFP Financial Group LLC,0.296,positive
+MSFT,2025-04-08,Motley Fool Australia,BetaShares Nasdaq 100 ETF (NDQ) surges 7%: a reminder not to delay a good buying opportunity,0.7692,positive
+MSFT,2025-04-08,ETF Daily News,Alliance Wealth Advisors LLC Has $3.93 Million Stake in Microsoft Co. (NASDAQ:MSFT),0.4939,positive
+MSFT,2025-04-08,ETF Daily News,Microsoft Co. (NASDAQ:MSFT) is Stoneridge Investment Partners LLC’s Largest Position,0.0,neutral
+MSFT,2025-04-08,ETF Daily News,Microsoft Co. (NASDAQ:MSFT) Shares Acquired by Chaney Capital Management Inc.,0.296,positive
+MSFT,2025-04-08,ETF Daily News,Microsoft Co. (NASDAQ:MSFT) is Empowered Funds LLC’s 8th Largest Position,0.0,neutral
+MSFT,2025-04-08,ETF Daily News,Microsoft Co. (NASDAQ:MSFT) Shares Sold by Investment Advisory Services Inc. TX ADV,0.6633,positive
+MSFT,2025-04-08,ETF Daily News,SouthPeak Interactive (OTCMKTS:SOPK) and FS KKR Capital (NYSE:FSK) Critical Survey,-0.3182,negative
+MSFT,2025-04-08,ETF Daily News,Technology Stocks To Research – April 6th,0.0,neutral
+MSFT,2025-04-08,Yahoo Entertainment,Is Microsoft Corporation (MSFT) the Best Fundamental Stock to Buy According to Billionaires?,0.6369,positive
+MSFT,2025-04-08,Motley Fool Australia,The smart way to invest in uncertain times? I'd be buying these 3 ASX ETFs,0.128,positive
+MSFT,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
+MSFT,2025-04-07,Biztoc.com,Asian Traders Brace for Swings as US Futures Rise: Markets Wrap,0.0,neutral
+MSFT,2025-04-07,Macdailynews.com,Apple stock nears one-year low,-0.2732,negative
+MSFT,2025-04-07,CNBC,Apple's 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
+MSFT,2025-04-07,XDA Developers,Windows 25 is a mod for Windows 11 that makes everything so much better,0.4902,positive
+MSFT,2025-04-07,Business Insider,I'm a mom of 12. These 10 things help me stick to and stretch my grocery budget.,0.4019,positive
+MSFT,2025-04-07,Yahoo Entertainment,Is Microsoft Corporation (MSFT) the Most Profitable Dividend Stock to Buy Now?,0.4927,positive
+MSFT,2025-04-07,Motley Fool Australia,Trump's semiconductor tariff exemption: which ASX ETFs stand to benefit?,0.4588,positive
+MSFT,2025-04-07,redmondpie.com,How To Create Stunning Social Media Ads On Mac With Wondershare Filmora (Even If You’re A Beginner),0.5719,positive
+MSFT,2025-04-07,Forbes,Effective Tariff Rate Hits 1909 Levels As Global Trade War Explodes,-0.2023,negative
+MSFT,2025-04-07,Biztoc.com,Apple Stock Falls Again. How the Rest of the Mag 7 Are Trading,0.0,neutral
+MSFT,2025-04-07,TechRadar,Does Microsoft know something we don't? Tech giant cools down on AI data center investment as another report claims company pullbacks,0.0,neutral
+MSFT,2025-04-07,Biztoc.com,"Apple Takes the Biggest Hit of the ""Magnificent Seven"" in Response to Trump Tariffs",0.5994,positive
+MSFT,2025-04-07,CNET,Buy or Wait Guide: 11 Experts Predict How Tariffs Will Change Tech Prices in 2025 and What to Do Now,0.0,neutral
+MSFT,2025-04-07,The Times of India,Nvidia share price in US stock market: What to know before buying or selling AI giant's stocks?,0.296,positive
+MSFT,2025-04-07,Forbes,8 Investing Mistakes To Avoid Making After Trump’s Crushing Tariffs,-0.7351,negative
+MSFT,2025-04-07,Business Insider,The bulls are in full retreat: These charts show the carnage on day 3 of a stunning market plunge.,0.5267,positive
+MSFT,2025-04-07,Biztoc.com,Stocks Are Sliding Again as Trump Threatens New Tariffs on China,-0.3818,negative
+MSFT,2025-04-07,Biztoc.com,"America first, fine; America alone, dangerous: JPMorgan CEO Jamie Dimon",-0.5106,negative
+MSFT,2025-04-07,The Verge,One of the best 4K QD-OLED gaming monitors is cheaper than ever,0.6369,positive
+MSFT,2025-04-07,Yahoo Entertainment,Stock market racing to price in a 'lost year' for corporate profits,0.1531,positive
+MSFT,2025-04-07,Newsweek,How Warren Buffett's Apple Move Protected His Net Worth,0.5859,positive
+MSFT,2025-04-07,Plos.org,Bacillus cereus biovar anthracis causes inhalational anthrax-like disease in rabbits that is treatable with medical countermeasures,0.0,neutral
+MSFT,2025-04-07,Rock Paper Shotgun,Blue Prince review,0.0,neutral
+MSFT,2025-04-07,Harvard School of Engineering and Applied Sciences,2025 Shareholders Meeting Agenda: Proactive Board Oversight Amid Significant Uncertainty and Change,0.296,positive
+MSFT,2025-04-07,Cisa.gov,"Vulnerability Summary for the Week of March 31, 2025",-0.2263,negative
+MSFT,2025-04-07,Biztoc.com,Jefferies tells tech giants that tariffs are a 'free hall pass' to reset their goals,0.5106,positive
+MSFT,2025-04-07,Demilked.com,25 Ways People Took Advantage Of A Loophole To Beat The System,0.25,positive
+MSFT,2025-04-07,DW (English),Trump tariffs: Global stock market rout continues,0.0,neutral
+MSFT,2025-04-07,Biztoc.com,Apple Stock Falls Again. How the Rest of the Mag 7 Are Trading,0.0,neutral
+MSFT,2025-04-07,Theregister.com,EU may target US tech giants in tariff response,0.0,neutral
+MSFT,2025-04-07,Forbes,Forbes Daily: New Tariff Critics Emerge As Thousands Protest Trump,-0.4939,negative
+MSFT,2025-04-07,Yahoo Entertainment,Tech stock sell-off: What one tech bull is worried about,-0.296,negative
+MSFT,2025-04-07,ETF Daily News,Metaverse Stocks To Research – April 4th,0.0,neutral
+MSFT,2025-04-07,Biztoc.com,"Microsoft venture Wicresoft to halt China operations, lay off staff, report says",0.0,neutral
+MSFT,2025-04-07,ETF Daily News,Microsoft Co. (NASDAQ:MSFT) Shares Sold by D Orazio & Associates Inc.,0.296,positive
+MSFT,2025-04-07,ETF Daily News,Archvest Wealth Advisors Inc. Has $1.96 Million Stock Holdings in Microsoft Co. (NASDAQ:MSFT),0.4939,positive
+MSFT,2025-04-07,ETF Daily News,TFG Advisers LLC Has $12.93 Million Position in Microsoft Co. (NASDAQ:MSFT),0.0,neutral
+MSFT,2025-04-07,ETF Daily News,Windsor Capital Management LLC Grows Holdings in Microsoft Co. (NASDAQ:MSFT),0.0,neutral
+MSFT,2025-04-07,ETF Daily News,Forbes J M & Co. LLP Acquires 281 Shares of Microsoft Co. (NASDAQ:MSFT),0.296,positive
+MSFT,2025-04-07,ETF Daily News,Microsoft Co. (NASDAQ:MSFT) Shares Bought by Westbourne Investment Advisors Inc.,0.296,positive
+MSFT,2025-04-07,ETF Daily News,Microsoft Co. (NASDAQ:MSFT) Holdings Trimmed by Mezzasalma Advisors LLC,0.0,neutral
+MSFT,2025-04-07,ETF Daily News,"Insider Buying: Dropsuite Limited (ASX:DSE) Insider Purchases A$348,000.00 in Stock",-0.2263,negative
+MSFT,2025-04-07,pymnts.com,CE 100 Index Sinks 9.9% on Tariff Worries and Payment Names Plunge,-0.4215,negative
+MSFT,2025-04-07,ETF Daily News,"Blair William & Co. IL Has $125,000 Stock Holdings in AvePoint, Inc. (NASDAQ:AVPT)",0.0,neutral
+MSFT,2025-04-07,ETF Daily News,Unison Asset Management LLC Purchases 478 Shares of Microsoft Co. (NASDAQ:MSFT),0.5719,positive
+MSFT,2025-04-07,ETF Daily News,Pacific Wealth Strategies Group Inc. Has $5.29 Million Stake in Microsoft Co. (NASDAQ:MSFT),0.4939,positive
+MSFT,2025-04-07,ETF Daily News,Opinicus Capital Inc. Sells 202 Shares of Microsoft Co. (NASDAQ:MSFT),0.296,positive
+MSFT,2025-04-07,ETF Daily News,Brokerages Set Globant S.A. (NYSE:GLOB) Price Target at $216.56,0.0,neutral
+MSFT,2025-04-07,ETF Daily News,StockNews.com Upgrades Globant (NYSE:GLOB) to Hold,0.0,neutral
+MSFT,2025-04-07,ETF Daily News,Top Metaverse Stocks To Follow Today – April 5th,0.2023,positive
+MSFT,2025-04-07,ETF Daily News,Analyzing Tempus AI (NASDAQ:TEM) and Internet Initiative Japan (OTCMKTS:IIJIY),0.0,neutral
+MSFT,2025-04-07,ETF Daily News,Analyzing FS KKR Capital (NYSE:FSK) and SouthPeak Interactive (OTCMKTS:SOPK),0.0,neutral
+MSFT,2025-04-07,Business Insider,Jefferies tells tech giants that tariffs are a 'free hall pass' to reset their goals,0.5106,positive
+MSFT,2025-04-07,Slashdot.org,"As Stocks (and Cryptocurrencies) Drop After Tariffs, France Considers Retaliating Against US Big Tech",-0.2732,negative
+MSFT,2025-04-06,Motley Fool Australia,Is it time to buy Vanguard US Total Market Shares Index ETF (VTS) following the sell-off?,0.3566,positive
+MSFT,2025-04-06,Biztoc.com,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
+MSFT,2025-04-06,Yahoo Entertainment,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
