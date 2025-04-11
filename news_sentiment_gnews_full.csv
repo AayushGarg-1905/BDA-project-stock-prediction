@@ -1,721 +1,681 @@
 ticker,date,source,headline,vader_score,vader_label
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-AAPL,2025-04-09,New York Post,'Pray to God that we all survive',0.5267,positive
-AAPL,2025-04-09,9to5Mac,Apple stock soared over 15% today ahead of possible tariff exemptions,0.0,neutral
-AAPL,2025-04-09,TechRadar,"Amazon just launched a surprise tech sale: stock up and save on TVs, Apple devices, smart home gadgets, and more",0.8481,positive
-AAPL,2025-04-07,NBC News,Apple’s 3-day loss in market cap swells to almost $640 billion,-0.3182,negative
-AAPL,2025-04-07,MacRumors,Apple's Stock Had a Wild Morning,0.0,neutral
-AAPL,2025-04-04,MacRumors,Apple Stock Sell-Off Continues After China Unveils Matching Tariffs,0.0,neutral
-AAPL,2025-04-04,Motley Fool Australia,Which Magnificent 7 stock is most impacted by Trump's tariffs?,0.5994,positive
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,Toronto Star,Stock markets plunge as Trump tariffs wreak havoc,-0.5994,negative
-AAPL,2025-04-03,The Verge,Apple has its biggest stock drop in five years because of Trump’s tariffs,-0.2732,negative
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-GOOGL,2025-04-08,Motley Fool Australia,Why Alphabet stock plunged 22% in the first quarter,0.0,neutral
-GOOGL,2025-03-18,CNBC,Jim Cramer's top 10 things to watch in the stock market Tuesday,0.2023,positive
-GOOGL,2025-03-18,Motley Fool Australia,Alphabet stock has lost over $500 billion in market cap. Is the Google parent a top AI stock to buy now?,-0.128,negative
-GOOGL,2025-03-13,9to5Google,Android 14 update rolling out to Chromecast with Google TV,0.0,neutral
-GOOGL,2025-03-10,New York Post,Google parent Alphabet's stock sinks as Trump's DOJ confirms push for antitrust breakup,0.0,neutral
-GOOGL,2025-02-25,Gizmodo,"Chegg Sues Google, Says AI Search Results Are Killing Its Business",-0.6597,negative
-GOOGL,2025-02-11,Android Central,"These are the best Android multitasking UIs, ranked",0.6369,positive
-GOOGL,2025-02-06,9to5Google,Google's Pixel 9 Pro Fold case is finally back in stock,0.0,neutral
-GOOGL,2025-02-05,Yahoo Finance,Google Parent Alphabet’s Stock Tumbles Amid Worries Whether AI Spending Will Pay Off,-0.4939,negative
-GOOGL,2025-02-05,Yahoo Canada Finance,"Alphabet stock tumbles after cloud revenue miss, spending growth",0.25,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
-MSFT,2025-04-06,Yahoo Finance,Is Microsoft Corporation (MSFT) the Best Beginner Stock?,0.6369,positive
-MSFT,2025-03-22,Business Insider,Microsoft Stock (MSFT) Narrowly Avoids Eight-Week Losing Streak,-0.5106,negative
-MSFT,2025-03-21,CNBC,How Microsoft went from generative AI leader to laggard,0.0,neutral
-MSFT,2025-03-16,Yahoo Finance,Palantir Technologies vs. Microsoft,0.0,neutral
-MSFT,2025-03-11,Ars Technica,Six ways Microsoft’s portable Xbox could be a Steam Deck killer,-0.6486,negative
-MSFT,2025-02-24,Motley Fool Australia,Microsoft's Satya Nadella just gave Nvidia stock a reality check,0.0,neutral
-MSFT,2025-02-10,Yahoo Finance,Nvidia stock slips amid report of OpenAI plan for AI chip development,0.0,neutral
-MSFT,2025-01-30,Yahoo Finance,"Microsoft stock moves lower after Q2 earnings report, cloud revenue miss",-0.4215,negative
-MSFT,2025-01-30,CNBC,Microsoft stock slumps 5% on disappointing revenue outlook,-0.4939,negative
-MSFT,2025-01-30,CNBC,Jim Cramer's top 10 things to watch in the stock market Thursday,0.2023,positive
+AAPL,30-01-2023,Investor's Business Daily,Apple Stock Climbs Off Lows As Earnings Optimism Builds: 3 Other FAANG Stocks Dominate Earnings Calendar,0.296,positive
+AAPL,30-01-2023,Business Insider,The Stock Market Is Facing a Make-or-Break Week Amid Technical Breakouts,0.0,neutral
+AAPL,29-01-2023,CNBC,"Stock futures fall ahead of busy week of earnings, Fed meeting",0.0,neutral
+AAPL,27-01-2023,Investor's Business Daily,"Stock Market Investing Action Plan - January Wrap: Apple, OPEC, Exxon And The Fed",0.0,neutral
+AAPL,24-01-2023,The Indian Express,"Today’s Latest Business News, Finance and Share Market News at 9:30 am on 24th January 2023",0.296,positive
+AAPL,23-01-2023,MacRumors,macOS: How to Adjust the Undo Send Delay in Apple Mail,-0.3182,negative
+AAPL,23-01-2023,Investor's Business Daily,Stock Market Gains On Fed Hopes After Weak Economic Reading; Tech-Heavy Nasdaq Leads,0.3182,positive
+AAPL,22-01-2023,Devdiscourse,Wall St Week Ahead-Tech stock rebound faces doubters with earnings season ahead,-0.3182,negative
+AAPL,21-01-2023,Devdiscourse,Wall St Week Ahead-Tech stock rebound faces doubters with earnings season ahead,-0.3182,negative
+AAPL,18-01-2023,Yahoo Canada Finance,What Apple's move to in-house M2 chips means for the stock,0.0,neutral
+AAPL,28-02-2023,Livemint,Apple supplier Foxlink seeks to resume production after fire at India facility,-0.34,negative
+AAPL,22-02-2023,Investor's Business Daily,Dexcom Stock Skids As A New Rival Reportedly Arrives On Scene: The Apple Watch,0.0,neutral
+AAPL,22-02-2023,BGR,Apple AirPods are on sale for $99 right now,0.0,neutral
+AAPL,21-02-2023,Investor's Business Daily,Cloud Stock Ascends To Top Of Buy Zone As Earnings Accelerate,0.2023,positive
+AAPL,21-02-2023,CNBC,Tuesday's top Wall Street analyst calls include Apple & Tesla,0.2023,positive
+AAPL,17-02-2023,Business Insider,Microsoft 'Leading the Pack' in AI Race and Stock Could Jump 15%,0.0,neutral
+AAPL,15-02-2023,Yahoo Canada Finance,"Tesla: It’s time for the EV maker to ‘grow up and become a brand like Apple,’ Ross Gerber says",0.3612,positive
+AAPL,15-02-2023,Vox.com,Leaked memo: Meta executive warns employees they’re still “at the whim of Apple”,-0.4019,negative
+AAPL,14-02-2023,Barron's,"Buy Apple Stock, Analyst Says. U.S. Hardware Demand Held Up Better Than Usual.",0.34,positive
+AAPL,14-02-2023,Business Insider,"Warren Buffett's Berkshire Slashes 3 Big Bets, Buys Apple Stock in Q4",-0.2023,negative
+AAPL,31-03-2023,Business Insider,Buffett's Berkshire Likely Made $30 Billion Gain on Apple Stock in Q1,0.5267,positive
+AAPL,30-03-2023,Seeking Alpha,VirnetX stock tumbles after patent loss in dispute with Apple,-0.6124,negative
+AAPL,30-03-2023,MacRumors,Deals: Apple's 2021 iPad Gets New Discounts on Amazon With Up to $80 Off,0.1779,positive
+AAPL,30-03-2023,Business Insider,"Einhorn Sold Apple Stock After Early Bet, Missed Out on Monster Return",-0.296,negative
+AAPL,28-03-2023,Investor's Business Daily,Apple Stock: Advertising Business Called Underappreciated,0.0,neutral
+AAPL,27-03-2023,Investor's Business Daily,Dow Jones Gains As Bank Crisis Eases; These 3 Warren Buffett Stocks Eye Entries,-0.1027,negative
+AAPL,23-03-2023,Seeking Alpha,Power Integrations stock rises as analyst calls it 'main winner' of iPhone change,0.5859,positive
+AAPL,23-03-2023,Business Insider,"AMZN, AAPL, or NFLX: Which FAANG Stock is the Best Pick?",0.6369,positive
+AAPL,22-03-2023,Investor's Business Daily,Apple Stock Today: How This Iron Condor In Options Trading Scores A $130 Profit Right Away,0.4404,positive
+AAPL,17-03-2023,MacRumors,Deals: Apple Pencil 2 Discounted to Lowest-Ever Price of $89.00 ($40 Off),0.0516,positive
+AAPL,29-04-2023,Yahoo Finance,Tech earnings suggest it's a stock picker's market,0.0,neutral
+AAPL,29-04-2023,Yahoo Canada Finance,Tech earnings suggest it's a stock picker's market,0.0,neutral
+AAPL,28-04-2023,The Australian Financial Review,Tech stock bulls see extended rally; Apple next hurdle,0.0,neutral
+AAPL,26-04-2023,Business Insider,Peter Lynch Regrets Apple Miss As Even Warren Buffett Bought the Stock,-0.4767,negative
+AAPL,26-04-2023,Investing.com,"Barclays sees Apple guiding down, says stock valuation is rich",0.5574,positive
+AAPL,25-04-2023,CNBC,How to trade Apple's March quarter results based on history,0.0,neutral
+AAPL,24-04-2023,Investor's Business Daily,Meta Stock A Buy After 152% Run? Why There May Be More Upside,0.0,neutral
+AAPL,21-04-2023,The Indian Express,"Today’s Latest Business News, Finance and Share Market News at 9:30 am on 21 April 2023",0.296,positive
+AAPL,18-04-2023,Yahoo Canada Finance,"Apple opens its first store location in India, while preparing apps for mixed-reality headset",0.0,neutral
+AAPL,17-04-2023,Investor's Business Daily,Apple Stock: Apple Opens First Stores In India,0.0,neutral
+AAPL,31-05-2023,Yahoo Finance,Nvidia achieves $1 trillion market cap for the first time as AI-fueled stock surge continues,0.0,neutral
+AAPL,31-05-2023,Yahoo Canada Finance,Nvidia achieves $1 trillion market cap for the first time as AI-fueled stock surge continues,0.0,neutral
+AAPL,31-05-2023,Yahoo Finance,Nvidia achieves $1 trillion market cap for the first time as AI-fueled stock surge continues,0.0,neutral
+AAPL,30-05-2023,Livemint,Nvidia enters $1 trillion club: Missed opportunity or time to buy for Indian investors?,0.1531,positive
+AAPL,30-05-2023,The Verge,Nvidia became a $1 trillion company thanks to the AI boom,0.4404,positive
+AAPL,27-05-2023,XDA Developers,Never lose track with this Apple AirTag 4 pack now just $90,0.3089,positive
+AAPL,25-05-2023,Livemint,Nvidia stock skyrockets after forecast of a huge jump in revenue,0.3182,positive
+AAPL,25-05-2023,MacRumors,Deals: Amazon Discounts Apple Pencil 2 to Best-Ever Price of $85 ($45 Off),0.1779,positive
+AAPL,25-05-2023,CNBC,"Nvidia nears elite trillion-dollar market cap club of Apple, Microsoft, Alphabet and Amazon",0.1779,positive
+AAPL,25-05-2023,Quartz India,Nvidia is poised to beat an Apple stock market record,0.25,positive
+AAPL,30-06-2023,CNBC,Apple passes $3 trillion market cap. Here's how to play the stock,0.34,positive
+AAPL,30-06-2023,Yahoo Canada Finance,Apple on pace to hold onto $3 trillion market cap ahead of Friday's close,0.0,neutral
+AAPL,30-06-2023,Yahoo Finance,The stock market's gains are almost entirely concentrated in the 'Magnificent 7' - and that could mean a crash is coming,0.5574,positive
+AAPL,30-06-2023,The Australian Financial Review,Apple’s closes above $US3 trillion milestone for first time,0.0,neutral
+AAPL,30-06-2023,Seeking Alpha,"Stock Market News Today: Markets jump, helped by technology stocks (SP500)",0.0,neutral
+AAPL,30-06-2023,Yahoo Canada Finance,"Nike stock dips, Apple's $3 trillion market cap, Savers Value Village IPO: Trending tickers",0.34,positive
+AAPL,30-06-2023,Yahoo Canada Finance,Apple hits $3 trillion market cap for second time,0.0,neutral
+AAPL,30-06-2023,Yahoo Finance,Apple hits $3 trillion market cap for second time,0.0,neutral
+AAPL,30-06-2023,Business Insider,"Apple Stock Has 30% Upside Potential, Believes Citigroup Analyst: Says iPhone Maker 'Consistently Gaining Share From Android Phones'",0.6124,positive
+AAPL,30-06-2023,Business Insider,Apple Stock Price Jumps Above Key $3 Trillion Valuation Milestone,0.0,neutral
+AAPL,31-07-2023,Yahoo Finance,Stocks close higher to end another strong month: Stock market news today,0.5106,positive
+AAPL,31-07-2023,Yahoo Canada Finance,Stocks close higher to end another strong month: Stock market news today,0.5106,positive
+AAPL,31-07-2023,Yahoo Finance,"Stocks muted in run-up to tech results, jobs report: Stock market news today",0.0,neutral
+AAPL,31-07-2023,Yahoo Finance,"Stocks rise in run-up to tech results, jobs report: Stock market news today",0.0,neutral
+AAPL,31-07-2023,Investor's Business Daily,"Shopify Stock Holds Near Highs Amid Expectations For Bullish Quarter; Apple, Amazon Set To Report",0.1779,positive
+AAPL,31-07-2023,Yahoo Finance,"Stocks rise in run-up to tech results, jobs report: Stock market news today",0.0,neutral
+AAPL,31-07-2023,Yahoo Canada Finance,"Stocks waver in run-up to tech results, jobs report: Stock market news today",0.0,neutral
+AAPL,31-07-2023,Yahoo Finance,"Stocks waver in run-up to tech results, jobs report: Stock market news today",0.0,neutral
+AAPL,31-07-2023,Yahoo Canada Finance,"Stock futures meander in run-up to tech results, jobs report: Stock market news today",0.0,neutral
+AAPL,31-07-2023,Yahoo Finance,"Stock futures meander in run-up to tech results, jobs report: Stock market news today",0.0,neutral
+AAPL,31-08-2023,Quartz India,A 23-year-old was charged in a $1 million meme stock fraud,-0.6808,negative
+AAPL,31-08-2023,Business Insider,The 5 Top Risks to Apple Stock Ahead of Its September iPhone 15 Event,-0.0772,negative
+AAPL,30-08-2023,Business Insider,4 Big Tech Giants Spent Over $1 Trillion on Stock Buybacks in 10 Years,0.0,neutral
+AAPL,29-08-2023,Cult of Mac,Stock backdating scandal hits Steve Jobs,-0.4404,negative
+AAPL,29-08-2023,Business Insider,"Pretzel-Shop Worker's $1 Million Fraud to Buy Tesla, Nvidia Stock: SEC",-0.5859,negative
+AAPL,29-08-2023,Yahoo Canada Finance,"Apple stock is poised for a rebound and the iPhone 15 launch could catapult it past Samsung as the world's biggest smartphone brand, analyst says",0.25,positive
+AAPL,28-08-2023,Investor's Business Daily,"Jabil Cuts Exposure To Apple, China With Division Sale",-0.296,negative
+AAPL,28-08-2023,Forbes,Disney Stock Hits 9-Year Low: Here’s How Its Performance Compares To Peers,-0.2732,negative
+AAPL,26-08-2023,Yahoo Canada Finance,"Apple, Microsoft, Tesla, and Meta see a combined $625 billion wipeout in market value amid August's stock slump",0.34,positive
+AAPL,25-08-2023,The Verge,How to change your Mac wallpaper,0.0,neutral
+AAPL,26-09-2023,Forbes,Dow Sinks 400 Points: Worst Day Since March As Interest Rate Fears Roil Markets,-0.5994,negative
+AAPL,23-09-2023,Business Insider,Daniel Ives Pounds the Table on Apple Stock,0.0,neutral
+AAPL,22-09-2023,CNBC,Jim Cramer's top 10 things to watch in the stock market Friday,0.2023,positive
+AAPL,22-09-2023,Forbes,Summer’s Over: Here Are The Stock Market’s Most Notable Winners And Losers,-0.0056,neutral
+AAPL,21-09-2023,BGR,Apple Watch users say weather and other complications aren’t updating in watchOS 10,0.0,neutral
+AAPL,21-09-2023,iMore,"Apple was quietly working on a stock purchasing feature on iPhone, now shelved",0.0,neutral
+AAPL,20-09-2023,Investor's Business Daily,Apple Stock Falls On Report Of Lukewarm iPhone 15 Demand,-0.128,negative
+AAPL,20-09-2023,The Motley Fool Canada,Beyond SPY: 2 Top S&P Stocks to Buy Today,0.2023,positive
+AAPL,20-09-2023,Seeking Alpha,Apple and Goldman had worked on stock trading app for iPhone - report,0.0,neutral
+AAPL,20-09-2023,MacRumors,Apple and Goldman Sachs Planned to Launch iPhone Stock Trading Feature Last Year,0.0,neutral
+AAPL,30-10-2023,Yahoo Finance,"Stock market news today: US stocks rally as investors await Fed decision, Apple earnings",0.1027,positive
+AAPL,30-10-2023,Yahoo Canada Finance,"Stock market news today: US stocks rally as investors await Fed decision, Apple earnings",0.1027,positive
+AAPL,30-10-2023,Yahoo Canada Finance,"Stock market news today: US stocks rise as investors await Fed decision, Apple earnings",0.1027,positive
+AAPL,30-10-2023,Yahoo Finance,"Stock market news today: US stocks rise as investors await Fed decision, Apple earnings",0.1027,positive
+AAPL,30-10-2023,Yahoo Canada Finance,Stock market news today: US stocks rise as eyes turn to big week of events,0.0,neutral
+AAPL,30-10-2023,Yahoo Finance,Stock market news today: US stocks rise as eyes turn to big week of events,0.0,neutral
+AAPL,30-10-2023,Yahoo Canada Finance,Stock market news today: US futures rise as eyes turn to big week of events,0.0,neutral
+AAPL,30-10-2023,Yahoo Finance,Stock market news today: US futures rise as eyes turn to big week of events,0.0,neutral
+AAPL,27-10-2023,Reuters,Wall St Week Ahead Frazzled U.S. stock investors eye frothy Treasury market as Fed looms,0.0516,positive
+AAPL,27-10-2023,Cult of Mac,Back in stock: Magnet keeps this slick silicone Apple Watch band in place,0.0,neutral
+AAPL,28-11-2023,Seeking Alpha,Apple Hospitality Q3: Growth Has Been Slowing Down (NYSE:APLE),0.3818,positive
+AAPL,28-11-2023,TechCrunch,Apple partner Foxconn to invest $1.5 billion in India,0.0,neutral
+AAPL,27-11-2023,BradfordToday,CHRISTMAS BAKING-----time to order,0.0,neutral
+AAPL,27-11-2023,The Verge,This company just put the air in Apple’s MacBook Air,0.0,neutral
+AAPL,27-11-2023,Investing.com,Will US Stocks Lead Global Markets Again in 2024? Big Tech Has the Answer,0.0,neutral
+AAPL,24-11-2023,Investing.com,Microsoft May Dethrone Apple as the Most Valuable Stock Soon,0.5256,positive
+AAPL,22-11-2023,Investor's Business Daily,Stock Market Climbs But Nvidia Slides On Earnings; Apple Hits $3 Trillion Mark,0.0,neutral
+AAPL,21-11-2023,Manchester Evening News,"my five tips will get you the cheapest Apple, Samsung and PS5 products on Black Friday'",0.0,neutral
+AAPL,20-11-2023,Business Insider,Analyst Recommends ‘Buy’ Rating for Apple Stock Amid Robust iPhone 15 Series Performance and Balanced Supply Chain,0.5106,positive
+AAPL,15-11-2023,Seeking Alpha,Apple: Tide Has Turned (Rating Upgrade),0.0,neutral
+AAPL,31-12-2023,Business Insider,"Apple Stock: Get Ready for a Strong 2024, Says Dan Ives",0.7003,positive
+AAPL,30-12-2023,iMore,In the eye of the beholder: Did Apple stocks underperform or is there more to come?,0.0,neutral
+AAPL,29-12-2023,Yahoo Finance,2024 Could Spell Trouble for Warren Buffett and Berkshire Hathaway With 48% of Their Portfolio in This One Stock With Declining Growth,-0.0258,neutral
+AAPL,28-12-2023,The Motley Fool Canada,Go for Growth: 2 Stocks Fit for a Young Investor's TFSA,0.6249,positive
+AAPL,26-12-2023,Yahoo Finance,"1 Growth Stock That Could Join Alphabet, Nvidia, Apple, and Microsoft in the $1 Trillion Club by 2030",0.5859,positive
+AAPL,22-12-2023,Yahoo Finance,You Won't Believe My Apple Stock Prediction for 2024,0.0,neutral
+AAPL,22-12-2023,Seeking Alpha,Apple: Losing The Magic,-0.3818,negative
+AAPL,22-12-2023,Seeking Alpha,"Apple Stock: Make No Mistake, Is The Smartwatch Sales Ban A Real Threat? (NASDAQ:AAPL)",-0.7153,negative
+AAPL,21-12-2023,Barron's,Apple Stock Is Soaring Even as the Company Struggles to Grow,-0.3612,negative
+AAPL,20-12-2023,Seeking Alpha,Why I Think Apple Could Face The Same Fate As Standard Oil,0.0,neutral
+AAPL,31-01-2024,Android Headlines,Apple Watch Series 8 plummets to its Lowest Price Ever,-0.3818,negative
+AAPL,30-01-2024,The Guardian,Microsoft’s Activision acquisition and bets on AI yield high quarterly revenue,0.0,neutral
+AAPL,30-01-2024,Yahoo Finance,Apple stock falls 1.5% as analyst Kuo says iPhone shipments could drop 15% in 2024,-0.2732,negative
+AAPL,29-01-2024,The Globe and Mail,"This household debt stress test may worry TSX investors. Plus, why Microsoft is the better stock pick than Apple",-0.6486,negative
+AAPL,29-01-2024,The Globe and Mail,Investors see Microsoft’s stock market value leaving Apple behind,0.34,positive
+AAPL,29-01-2024,Investing.com,Investors see Microsoft's stock market value leaving Apple behind,0.34,positive
+AAPL,28-01-2024,Business Insider India,This week is going to be huge for the stock market,0.3182,positive
+AAPL,27-01-2024,Yahoo Finance,"Stock Market Curveball: Apple, IBM, and Netflix Just Split Their Stocks, but It's Not What You Think",0.0,neutral
+AAPL,26-01-2024,Business Insider,Apple Stock (NASDAQ:AAPL) Could Impress as Vision Pro Launch Looms,0.5106,positive
+AAPL,26-01-2024,Fortune,Nelson Peltz praises GE CEO after stock beats Apple,0.5267,positive
+AAPL,29-02-2024,MacRumors,How to Create Your iPhone Contact Poster,0.2732,positive
+AAPL,29-02-2024,Forbes,Apple Stock Near 4-Month Low As AI Questions Linger,-0.2732,negative
+AAPL,29-02-2024,Investing.com,Goldman removes Apple stock from 'US Conviction List,0.0,neutral
+AAPL,28-02-2024,Yahoo Finance,"1 Unstoppable Stock Set to Join Nvidia, Apple, Microsoft, Amazon, Alphabet, and Meta in the $1 Trillion Club",0.2732,positive
+AAPL,28-02-2024,Business Insider,NANC ETF Tracking Democrat Stock Trades Beating S&P 500 on Tech Bets,-0.4588,negative
+AAPL,28-02-2024,Investor's Business Daily,Dow Jones Futures: Stock Market Shows Healthy Action As Apple Makes Strategic Shift,0.4019,positive
+AAPL,27-02-2024,Investor's Business Daily,Why Apple Hit Brakes On Autonomous Electric Vehicle Project,0.0,neutral
+AAPL,27-02-2024,Seeking Alpha,Apple: Uninspiring Growth Outlook,0.3818,positive
+AAPL,26-02-2024,Seeking Alpha,Apple Hospitality: Strong Cash Flows And De-Risked Balance Sheet At Single-Digit Multiple,0.5106,positive
+AAPL,26-02-2024,Investing.com,Will Druckenmiller Help Power Coupang Stock Higher?,0.4019,positive
+AAPL,01-04-2024,Seeking Alpha,"Rivian: Thank You, Apple! (NASDAQ:RIVN)",0.4199,positive
+AAPL,31-03-2024,Livemint,The stock market’s magnificent seven is now the fab four,0.7845,positive
+AAPL,31-03-2024,Yahoo Finance,"Will Artificial Intelligence (AI) Allow Nvidia to Crush Apple and Microsoft, and Become the Most Valuable ""Magnificent Seven"" Stock?",0.8995,positive
+AAPL,30-03-2024,Yahoo Finance,"Forget Apple: I Think This Stock Should Replace It in the ""Magnificent Seven""",0.4588,positive
+AAPL,30-03-2024,Yahoo Finance,Will Warren Buffett Sell More Apple Stock Because of the DOJ Antitrust Lawsuit -- and Should You?,-0.2263,negative
+AAPL,28-03-2024,CNBC,Apple’s bad quarter and what history says will happen next,-0.5423,negative
+AAPL,27-03-2024,Yahoo Finance,Billionaire Warren Buffett Has 50% of His Portfolio in 1 Stock,0.0,neutral
+AAPL,27-03-2024,iMore,DOJ: Apple has a monopoly and its stock buybacks prove it - Lack of R&D spending highlights competition issues,-0.3182,negative
+AAPL,27-03-2024,Investor's Business Daily,The Next Mag 7 Breakout Nears - With A Little Help From Apple,0.3415,positive
+AAPL,26-03-2024,Yahoo Finance,"1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta in the $1 Trillion Club",0.2732,positive
+AAPL,30-04-2024,Business Insider,"Buy the Dip in Apple Stock While It's Cheap, Bernstein Says",0.0,neutral
+AAPL,29-04-2024,Business Insider India,Stock market today: US stocks edge higher ahead of earnings deluge and Fed policy meeting,0.0,neutral
+AAPL,29-04-2024,CNBC,Longtime Apple skeptic warms up to stock. Why we're not cheering the call yet,-0.3616,negative
+AAPL,29-04-2024,Yahoo Finance,Prediction: This Will Be Warren Buffett's Second Biggest Holding After Apple by 2027,0.0,neutral
+AAPL,28-04-2024,CNBC,Your guide to a week that includes Apple and Amazon,0.1779,positive
+AAPL,27-04-2024,CNBC,"Eli Lilly, Apple are among 12 portfolio stocks reporting in week ahead",0.0,neutral
+AAPL,26-04-2024,Yahoo Finance,"1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta in the $1 Trillion Club",0.2732,positive
+AAPL,25-04-2024,CNBC,CNBC's 2024 Stock Draft,0.0,neutral
+AAPL,24-04-2024,Cult of Mac,Bag bargains on iMacs and Apple accessories while they last,0.0,neutral
+AAPL,24-04-2024,PetaPixel,RIP Apple Vision Pro? Sales of Apple's Mixed Reality Headset are Tanking,0.25,positive
+AAPL,31-05-2024,Windows Central,High demand for AI chips will help NVIDIA overtake Apple in market capitalization,0.296,positive
+AAPL,31-05-2024,Livemint,Nvidia may surpass Apple as world's second-most valuable company due to boost from AI applications,0.7003,positive
+AAPL,29-05-2024,CNBC,"Apple, Nvidia fight Wednesday stock market decline. What is supporting them",0.0772,positive
+AAPL,29-05-2024,Quartz India,The Dow drops 375 points as American Airlines stock sink,0.0,neutral
+AAPL,28-05-2024,Yahoo Finance,"1 Unstoppable Stock That Could Join Nvidia, Microsoft, Apple, Amazon, Alphabet, and Meta in the $1 Trillion Club",0.2732,positive
+AAPL,25-05-2024,Yahoo Finance,"1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta Platforms in the $1 Trillion Club",0.2732,positive
+AAPL,24-05-2024,Business Insider,47% Upside on WWDC AI Day and iPhone 16,0.0,neutral
+AAPL,22-05-2024,Seeking Alpha,Apple's Stock Is A Steal At This Price,-0.4939,negative
+AAPL,18-05-2024,Yahoo Finance,Could Warren Buffett Like This Stock More Than Apple Because of Its Once-in-a-Generation Opportunity?,0.6486,positive
+AAPL,18-05-2024,Yahoo Finance,"1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta in the $1 Trillion Club",0.2732,positive
+AAPL,28-06-2024,Yahoo Finance,"If You'd Invested $1,000 in Apple Stock 27 Years Ago, Here's How Much You'd Have Today",0.0,neutral
+AAPL,28-06-2024,Quartz India,Apple stock surges thanks to AI. Will it last?,0.4404,positive
+AAPL,28-06-2024,Yahoo Finance,"1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta in the $1 Trillion Club",0.2732,positive
+AAPL,25-06-2024,Business Insider,"Boom in Leveraged Nvidia Stock ETFs Fails to Spread to Tesla, Apple",-0.4215,negative
+AAPL,24-06-2024,CNBC,EU allegations against Apple are worrisome but not a game-changer for the stock,-0.2144,negative
+AAPL,23-06-2024,Seeking Alpha,AI adds $30-$40 to Apple's stock price - Dan Ives,0.0,neutral
+AAPL,21-06-2024,Yahoo Finance,"1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta in the $1 Trillion Club",0.2732,positive
+AAPL,21-06-2024,Business Insider,"Apple Stock Price Prediction: $240 Price Target on AI Leadership, iPhone 16",0.0,neutral
+AAPL,18-06-2024,The New York Times,"Nvidia Becomes Most Valuable Public Company, Topping Microsoft and Apple",0.5256,positive
+AAPL,18-06-2024,Devdiscourse,"Nvidia Soars as AI King, Surpasses Microsoft in Market Value",0.34,positive
+AAPL,29-07-2024,Business Insider,"Stock Market Today: Investors Await Wave of Data From Earnings, July Fed",0.1027,positive
+AAPL,28-07-2024,CNBC,Stock futures rise slightly ahead of loaded week for tech earnings,0.0,neutral
+AAPL,26-07-2024,CNBC,What can drive Apple stock from here? It's not next week's Q3 earnings,0.0,neutral
+AAPL,26-07-2024,Yahoo Finance,"1 Phenomenal Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta in the $1 Trillion Club",0.4404,positive
+AAPL,25-07-2024,The Guardian,Markets in US and Asia fall on AI jitters; Revolut finally wins UK banking licence - business live,0.5719,positive
+AAPL,24-07-2024,Yahoo Finance,Analysts adjust Apple stock price target ahead of earnings,0.0,neutral
+AAPL,22-07-2024,Yahoo Finance,"Billionaire Warren Buffett Has Purchased $77 Billion of His Favorite Stock, Which Is More Than Double What He's Spent Buying Shares of Apple!",0.6696,positive
+AAPL,21-07-2024,Yahoo Finance,Billionaire Warren Buffett Has $135 Billion Invested in Just 1 Artificial Intelligence (AI) Stock. Is It Time to Buy?,0.4767,positive
+AAPL,16-07-2024,The Irish Times,Apple: just another overheated AI stock?,0.0,neutral
+AAPL,15-07-2024,The Globe and Mail,Apple at all-time high after Morgan Stanley calls stock ‘top pick’ for AI efforts,0.0,neutral
+AAPL,29-08-2024,Business Insider,Buy Tesla Stock As It Builds Apple-Esque Energy Ecosystem: William Blair,0.2732,positive
+AAPL,29-08-2024,Business Insider,"Apple Will Eclipse Nvidia As the Top AI Stock in 2025, Citi Says",0.2023,positive
+AAPL,28-08-2024,Motley Fool Australia,Should you buy Apple stock before Sept. 9? Here's what the evidence suggests,0.0,neutral
+AAPL,28-08-2024,BradfordToday,Stock market today: Losses for Big Tech companies lead Wall Street lower,-0.5994,negative
+AAPL,28-08-2024,BayToday,Stock market today: Losses for Big Tech companies lead Wall Street lower,-0.5994,negative
+AAPL,28-08-2024,SooToday,Stock market today: Losses for Big Tech companies lead Wall Street lower,-0.5994,negative
+AAPL,28-08-2024,GuelphToday,Stock market today: Losses for Big Tech companies lead Wall Street lower,-0.5994,negative
+AAPL,28-08-2024,ElliotLakeToday.com,Stock market today: Losses for Big Tech companies lead Wall Street lower,-0.5994,negative
+AAPL,28-08-2024,Vancouver Is Awesome,Stock market today: Losses for Big Tech companies lead Wall Street lower,-0.5994,negative
+AAPL,27-08-2024,CNBC,Cramer talks Apple CFO shake-up,0.0,neutral
+AAPL,30-09-2024,Motley Fool Australia,"Meet Warren Buffett's top artificial intelligence (AI) stock, which has 32% upside according to Dan Ives",0.5994,positive
+AAPL,29-09-2024,Seeking Alpha,Wall Street Brunch: Jobs Or Earnings?,0.0,neutral
+AAPL,28-09-2024,Yahoo Finance,"Prediction: Apple's iPhone 16 Could Become a Runaway Hit, and Here Is 1 Stock to Buy Hand Over Fist Before That Happens",0.4939,positive
+AAPL,25-09-2024,CNBC,"An options trade that wins if Apple continues to trade sideways or down on iPhone, AI disappointment",0.1027,positive
+AAPL,25-09-2024,Yahoo Finance,Warren Buffett Just Bought $345 Million of His Favorite Stock (Hint: Not Apple),0.4588,positive
+AAPL,25-09-2024,Motley Fool Australia,Prediction: 1 US stock that will be worth more than Apple 10 years from now,0.2263,positive
+AAPL,24-09-2024,Yahoo Finance,Prediction: 1 Stock That Will Be Worth More Than Apple 10 Years From Now,0.2263,positive
+AAPL,23-09-2024,Business Insider,Strong iPhone 16 Demand Justifies Buy Rating for Apple,0.4215,positive
+AAPL,22-09-2024,Seeking Alpha,Apple Stock: Risk From Trifold Smartphone Market (NASDAQ:AAPL),-0.2732,negative
+AAPL,21-09-2024,Yahoo Finance,Warren Buffett's Safest Stock Might Not Be Apple or Coca-Cola. 1 Other Stock That Could Be a Better Buy in the Long Run.,0.6808,positive
+AAPL,31-10-2024,Forbes,Apple Earnings: Stock Wavers Despite Strong iPhone Sales,-0.4023,negative
+AAPL,29-10-2024,Devdiscourse,Global Markets Steady as Key U.S. Tech Earnings Loom,-0.2263,negative
+AAPL,26-10-2024,Deccan Chronicle,Nvidia Overtakes Apple As World's Most Valuable Company,0.5256,positive
+AAPL,25-10-2024,New York Post,Nvidia overtakes Apple as world's most valuable company,0.5256,positive
+AAPL,23-10-2024,Quartz India,Apple stock slips after a big cut for iPhone 16 orders,-0.2732,negative
+AAPL,21-10-2024,Yahoo Canada Finance,"Stock market today: Dow drops 300 points, Nvidia, Apple close at fresh records",0.3182,positive
+AAPL,21-10-2024,Yahoo Finance,"Stock market today: Dow drops 300 points, Nvidia, Apple close at fresh records",0.3182,positive
+AAPL,21-10-2024,Motley Fool Australia,Could buying Apple stock today set you up for life?,0.0,neutral
+AAPL,20-10-2024,Seeking Alpha,Sirius XM Makes Sense As A Warren Buffett Investment,0.0,neutral
+AAPL,18-10-2024,Yahoo Finance,"Meet the Unstoppable Stock That Could Join Apple, Nvidia, Microsoft, Alphabet, Amazon, Meta, and Taiwan Semiconductor Manufacturing in the $1 Trillion Club by 2035",0.2732,positive
+AAPL,29-11-2024,Cult of Mac,Pixar IPO makes Steve Jobs a billionaire: Today in Apple history,0.0,neutral
+AAPL,29-11-2024,Yahoo Finance,Warren Buffett Is Selling Apple and Bank of America Stock and Piling Into This High-Yield Investment Instead,0.0,neutral
+AAPL,22-11-2024,Yahoo Finance,"Warren Buffett Just Shunned His Favorite Stock for the First Time Since 2018, and It Could Spell Trouble for the S&P 500",0.0772,positive
+AAPL,21-11-2024,CNET,"Stock Up on the Basics With Slashed Prices on Belkin Chargers, USB-C Cables, Apple AirTag Holders and More",-0.2263,negative
+AAPL,20-11-2024,CNBC,Top Wall Street analyst says don’t sell Apple stock. We couldn’t agree more,0.5106,positive
+AAPL,20-11-2024,CNBC,A bearish options trade on Apple as stock struggles to keep up with broader market,-0.3612,negative
+AAPL,18-11-2024,Investor's Business Daily,Heico Stock Tests Buy Zone,0.0,neutral
+AAPL,15-11-2024,New York Post,Apple AirPods are $75 off during Walmart Black Friday,0.0,neutral
+AAPL,15-11-2024,The Globe and Mail,"Warren Buffett’s Berkshire bites into Domino’s Pizza, dips into Pool amid stock retreat",0.2023,positive
+AAPL,06-11-2024,Firstpost,NVIDIA pips Apple as the world’s most valuable company again thanks to growing AI wave,0.7902,positive
+AAPL,30-12-2024,Yahoo Finance,"How major US stock indexes fared Monday, 12",0.0,neutral
+AAPL,30-12-2024,Yahoo Finance,Watch These Apple Stock Price Levels as $4T Market Cap Remains in Striking Distance,0.0,neutral
+AAPL,28-12-2024,Cult of Mac,Today in Apple history,0.0,neutral
+AAPL,27-12-2024,MacRumors,Apple Set to Become First $4 Trillion Company,0.0,neutral
+AAPL,26-12-2024,CNBC,Apple soars to a record. Where JPMorgan thinks it’s headed in 2025,0.0,neutral
+AAPL,26-12-2024,The Associated Press,"How the stock market defied expectations again this year, by the numbers",0.0,neutral
+AAPL,26-12-2024,Yahoo Finance,Apple Stock Gets Target Boost From Analyst Who Sees 'Golden Era of Growth' With AI,0.6486,positive
+AAPL,26-12-2024,Yahoo Canada Finance,Apple stock touches intraday high after nod of confidence from Wall Street,0.5106,positive
+AAPL,26-12-2024,Yahoo Finance,Apple stock touches intraday high after nod of confidence from Wall Street,0.5106,positive
+AAPL,26-12-2024,CNBC,Here are our top 10 things to watch in the stock market Thursday,0.2023,positive
+GOOGL,30-01-2023,Investor's Business Daily,Google Stock: YouTube Expected To Be Drag On Google Earnings,-0.2263,negative
+GOOGL,26-01-2023,New York Post,Paul Pelosi sold Google stock a month before DOJ antitrust lawsuit: report,-0.2263,negative
+GOOGL,25-01-2023,Newsweek,Odd Timing of Nancy Pelosi's Google Stock Sale Raises Concerns,-0.3182,negative
+GOOGL,25-01-2023,Barron's,"Google's Fight With DOJ Is a Problem for the Stock, Analysts Say",-0.6486,negative
+GOOGL,24-01-2023,Seeking Alpha,Justice Dept. files second antitrust suit against Google,0.5267,positive
+GOOGL,22-01-2023,Devdiscourse,Wall St Week Ahead-Tech stock rebound faces doubters with earnings season ahead,-0.3182,negative
+GOOGL,21-01-2023,Devdiscourse,Wall St Week Ahead-Tech stock rebound faces doubters with earnings season ahead,-0.3182,negative
+GOOGL,20-01-2023,Investor's Business Daily,"Stock Market Rally Pulls Back; Microsoft, Google Slash Jobs; Netflix, Goldman, Tesla In Focus: Weekly Review",-0.2732,negative
+GOOGL,20-01-2023,Mashable India,"Google Parent Alphabet To Slash 12,000 Workforce Globally; CEO Sundar Pichai Sends A Mail To Employees",-0.2732,negative
+GOOGL,20-01-2023,Investor's Business Daily,"Alphabet To Cut 12,000 Jobs, About 6% Of Workforce, After Hiring Spree",-0.2732,negative
+GOOGL,21-02-2023,Investor's Business Daily,Cloud Stock Ascends To Top Of Buy Zone As Earnings Accelerate,0.2023,positive
+GOOGL,19-02-2023,Yahoo Canada Finance,You're a sucker if you trust ChatGPT,-0.0258,neutral
+GOOGL,13-02-2023,Mashable India,'Like A Kick In The Chest!' Fired Google Employees Might Get Less Severance Packages Than Expected,-0.3382,negative
+GOOGL,11-02-2023,Yahoo Canada Finance,An ex-Googler said finding out they'd get far less stock than expected felt like a 'second kick in the chest' after losing their job,-0.0258,neutral
+GOOGL,10-02-2023,Gizmodo,'Inaccurate Calculation' Leaves Laid Off Google Employees Confused About Severance Package,-0.3182,negative
+GOOGL,10-02-2023,CNBC,Google employees slam CEO Sundar Pichai for ‘rushed’ Bard announcement,-0.3818,negative
+GOOGL,10-02-2023,PhoneArena,T-Mobile brings back its stellar Google Pixel 7 and 7 Pro deals (with no trade-in),-0.296,negative
+GOOGL,10-02-2023,Investor's Business Daily,"Section 230, The Law That Built The Internet, Is Under Threat; It Could Be 'A Nightmare' For Twitter, Meta And Google Stock",-0.5267,negative
+GOOGL,10-02-2023,Marketing Interactive,Google's stock plummets after AI bot Bard,0.0,neutral
+GOOGL,09-02-2023,Seeking Alpha,Analysts stay positive on Google AI after historic value wipeout,0.7184,positive
+GOOGL,28-03-2023,Yahoo Canada Finance,Alibaba stock continues to climb after announcement of six-way business split,0.0,neutral
+GOOGL,20-03-2023,Android Police,Google Messages will soon show contact images within chats,0.0,neutral
+GOOGL,15-03-2023,Investor's Business Daily,Growth Stock Google's 37% Surge From Flat Base Offers Lessons,0.3818,positive
+GOOGL,08-03-2023,Yahoo Canada Finance,"Google ‘really good at using alliances’ to figure out ways to help U.S. economy, analyst says",0.6808,positive
+GOOGL,08-03-2023,Business Insider,"Google, Meta, Snap Stock to Benefit From US TikTok Ban, CFRA Says",-0.1531,negative
+GOOGL,02-03-2023,Android Central,Google has a Pixel Fold problem,-0.4019,negative
+GOOGL,28-04-2023,Evening Standard,How To Buy Alphabet Stock (GOOGL),0.0,neutral
+GOOGL,27-04-2023,Fortune,Amazon shares rise 9% on strong Q1 2023 earnings,0.7351,positive
+GOOGL,26-04-2023,CNBC,Alphabet's quarter delivers but doesn't dazzle. The stock tells the story,0.0,neutral
+GOOGL,25-04-2023,Seeking Alpha,"Alphabet earnings call: The AI promise at Google, and improving YouTube",0.6249,positive
+GOOGL,25-04-2023,Investor's Business Daily,"GOOGL Stock: Google Earnings, Revenue Top Estimates Amid Cost-Cutting",0.2023,positive
+GOOGL,25-04-2023,Investor's Business Daily,"Dow Jones Falls Sharply As Google, Microsoft Earnings Loom; First Republic Craters",-0.2263,negative
+GOOGL,25-04-2023,Reuters,"Google-parent Alphabet's revenue beats on ad, cloud strength",0.4939,positive
+GOOGL,25-04-2023,Forbes,"Microsoft Earnings: Stock Climbs As Company Rides AI Wave To Profit, Sales Beats",0.4404,positive
+GOOGL,24-04-2023,Independent.ie,Google parent Alphabet CEO's pay soars to $226m,-0.1027,negative
+GOOGL,23-04-2023,Independent.ie,Google parent Alphabet CEO's pay soars to $226m,-0.1027,negative
+GOOGL,26-05-2023,Android Authority,The top Pixel Fold model is sold out in the US,0.2023,positive
+GOOGL,23-05-2023,Yahoo Canada Finance,"Alphabet stock has more upside as Google search still has advantages over ChatGPT, Bank of America says",0.3612,positive
+GOOGL,18-05-2023,PhoneArena,Google might finally improve the split-screen feature with Android 14,0.4404,positive
+GOOGL,15-05-2023,Investor's Business Daily,"Uber Stock Riding High On Deals With Amazon, Google And Oracle",0.1779,positive
+GOOGL,15-05-2023,CNBC,"Loop Capital downgrades GOOGL, says AI proliferation could hurt the stock",-0.5267,negative
+GOOGL,15-05-2023,Forbes,End Of Google’s Dominance? Stock Gets Rare Analyst Downgrade Over AI Fears,-0.25,negative
+GOOGL,11-05-2023,Yahoo Canada Finance,Google stock rises following AI integration announcements at I/O conference,0.0,neutral
+GOOGL,11-05-2023,Android Police,"Google Pixel Tablet hands-on: What's up, dock?",0.0,neutral
+GOOGL,11-05-2023,Investor's Business Daily,AI Initiatives - And This Business - Have Google Stock On Cloud 9,0.0,neutral
+GOOGL,11-05-2023,CNBC,Google AI event sends Alphabet stock to highest price since August,0.0,neutral
+GOOGL,28-06-2023,Yahoo Canada Finance,"How Wall Street analysts are reevaluating Tesla, Alphabet stock",0.0,neutral
+GOOGL,28-06-2023,Yahoo Canada Finance,"How Wall Street analysts are reevaluating Tesla, Alphabet stock",0.0,neutral
+GOOGL,27-06-2023,Yahoo Finance,Google parent Alphabet’s stock hit with two downgrades this week,0.0,neutral
+GOOGL,27-06-2023,Yahoo Canada Finance,Google parent Alphabet’s stock hit with two downgrades this week,0.0,neutral
+GOOGL,21-06-2023,Analytics India Magazine,"The Uber Rich Get $150 Billion Richer, Thanks to The AI Boom",0.8805,positive
+GOOGL,15-06-2023,Seeking Alpha,Squarespace stock takes off on deal to buy assets of Google's domains business,0.1779,positive
+GOOGL,14-06-2023,Yahoo Canada Finance,"Lumen stock rises on partnerships with Google, Microsoft",0.0,neutral
+GOOGL,13-06-2023,The Indian Express,"Today’s Latest Business News, Finance and Share Market News at 5:30 pm on 13 June 2023",0.296,positive
+GOOGL,12-06-2023,Android Headlines,"Porcelain Pixel Fold is now back in stock, available to pre-order",0.0,neutral
+GOOGL,26-07-2023,Investor's Business Daily,"Stock Market Calm As Fed News Gets Closer; Google, Boeing Make Bullish Moves",0.3182,positive
+GOOGL,26-07-2023,Forbes,Alphabet Stock Rides Earnings To 15-Month High-Here's Why Some Analysts Expect It To Surge Nearly 30% More,0.0,neutral
+GOOGL,25-07-2023,Devdiscourse,Google rebounds from unprecedented drop in ad revenue with a resurgence that pushes stock higher,-0.2732,negative
+GOOGL,25-07-2023,Investor's Business Daily,"Google Earnings, Revenue Beat Estimates As Porat Promoted To President",0.4215,positive
+GOOGL,24-07-2023,Yahoo Canada Finance,"Microsoft, Google, and the Fed are all in focus ahead of a make-or-break week for the 2023 stock-market rally",0.0,neutral
+GOOGL,13-07-2023,Yahoo Canada Finance,"Alphabet stock rises 4% after Google rolls out new Bard features, international expansion",0.0,neutral
+GOOGL,13-07-2023,Yahoo Finance,"Alphabet stock rises 4% after Google rolls out new Bard features, international expansion",0.0,neutral
+GOOGL,13-07-2023,Yahoo Finance,"Alphabet stock rises 4% after Google rolls out new Bard features, international expansion",0.0,neutral
+GOOGL,11-07-2023,Seeking Alpha,Affirm Holdings stock advances as Mizuho sees Debit+ card gaining traction,0.4215,positive
+GOOGL,10-07-2023,Yahoo News,"Here's how much I made at Google, Meta, and LinkedIn - and why I ultimately left my $196,000 tech job",0.0,neutral
+GOOGL,29-08-2023,CNBC,Nvidia's stock closes at record after Google AI partnership,0.0,neutral
+GOOGL,29-08-2023,Yahoo Finance,Google stock rises as it says it will charge $30 for enterprise AI service,0.0,neutral
+GOOGL,28-08-2023,Reuters,Leaving the office for dead may haunt investors,-0.7906,negative
+GOOGL,26-08-2023,Investor's Business Daily,"Google Stock: As Market Pulls Back, Here Are Five Stocks Near Buy Points.",0.0,neutral
+GOOGL,23-08-2023,Analytics India Magazine,Google DeepMind’s Unlikely Route of AI Stock Images,0.0,neutral
+GOOGL,18-08-2023,Investor's Business Daily,Nothing Artificial About The AI Wave — Or Demand For This Stock,-0.128,negative
+GOOGL,11-08-2023,The Globe and Mail,"Hey, Google, are you ever going to fix your broken financial spreadsheets?",-0.4767,negative
+GOOGL,08-08-2023,Investor's Business Daily,"Warren Buffett Stocks: GOOGL, LULU And More Test Buy Zones",0.0,neutral
+GOOGL,05-08-2023,Yahoo Canada Finance,Alphabet sold almost 90% of its Robinhood stake last quarter,0.0,neutral
+GOOGL,04-08-2023,Investor's Business Daily,"AI Lovefest Fuels Massive Bets On Meta, Tesla, Google And Beyond",0.0,neutral
+GOOGL,29-09-2023,Business Insider,Bill Ackman Channeled Warren Buffett With Big Bet on Alphabet Stock,0.0,neutral
+GOOGL,21-09-2023,Investor's Business Daily,AVGO Stock: Broadcom Falls On Report Google AI Chip Deal At Risk,-0.2732,negative
+GOOGL,12-09-2023,Yahoo Finance,"'Magnificent Seven' investing playbook: Google’s antitrust battle comes at a 'pivotal time,' analyst says",0.3182,positive
+GOOGL,11-09-2023,Investor's Business Daily,Google Antitrust Case: Why Apple Will Be Part Of The Courtroom Drama,0.0,neutral
+GOOGL,10-09-2023,Android Police,How to track stock prices in Google Sheets,0.0,neutral
+GOOGL,25-10-2023,Motley Fool Australia,Why Amazon stock was down after Google's news today,0.1779,positive
+GOOGL,25-10-2023,Motley Fool Australia,Why Alphabet stock crashed Wednesday morning,0.0,neutral
+GOOGL,25-10-2023,Yahoo Finance,Stock market news today: Stocks clobbered as Nasdaq drops 2.5% amid Google's slide,0.0,neutral
+GOOGL,25-10-2023,Yahoo Canada Finance,Stock market news today: Stocks clobbered as Nasdaq drops 2.5% amid Google's slide,0.0,neutral
+GOOGL,25-10-2023,Business Insider India,Alphabet sees $165 billion in market cap wiped after cloud business growth disappoints Wall Street,0.0,neutral
+GOOGL,25-10-2023,TechRadar,Alphabet stock declines after poor cloud performance,-0.4767,negative
+GOOGL,25-10-2023,Yahoo Finance,AI is driving divergent paths for big tech stocks,0.0,neutral
+GOOGL,25-10-2023,Yahoo Canada Finance,AI is driving divergent paths for big tech stocks,0.0,neutral
+GOOGL,25-10-2023,Yahoo Canada Finance,"Stock market news today: S&P 500, Nasdaq tumble as Google slides",0.0,neutral
+GOOGL,25-10-2023,Yahoo Finance,"Stock market news today: S&P 500, Nasdaq tumble as Google slides",0.0,neutral
+GOOGL,22-11-2023,Investor's Business Daily,Let's Ask Bard: Is Google Stock A Buy Now?,0.0,neutral
+GOOGL,16-11-2023,Business Insider,AI Hype in the Stock Market Is Starting to Cool,0.3182,positive
+GOOGL,15-11-2023,Seeking Alpha,Google Q3: The Magnificent One (Technical Analysis),0.5994,positive
+GOOGL,22-12-2023,Seeking Alpha,Google Stock Unlikely To Be Dethroned (NASDAQ:GOOG),0.0,neutral
+GOOGL,14-12-2023,Seeking Alpha,Insight Enterprises: Acquisition Of SADA Can Drive The Growth,0.3818,positive
+GOOGL,08-12-2023,Seeking Alpha,Google Crushes Microsoft's AI Monopoly,-0.4404,negative
+GOOGL,07-12-2023,Yahoo Finance,Google parent Alphabet's stock pops as Wall Street cheers AI model Gemini,0.4767,positive
+GOOGL,06-12-2023,Seeking Alpha,"Google: Still Great, But No Investment At $130",-0.0644,negative
+GOOGL,31-01-2024,Seeking Alpha,Google Q4: A PayPal Moment,0.0,neutral
+GOOGL,31-01-2024,Investor's Business Daily,Stock Market Mixed While Google And Microsoft Drop,-0.2732,negative
+GOOGL,31-01-2024,Seeking Alpha,"Biggest stock movers today: Plug Power, Paramount Global, Google parent Alphabet, and more",0.0,neutral
+GOOGL,31-01-2024,Seeking Alpha,Why Google Stock Is Dipping Despite Revenue Upticks,0.0,neutral
+GOOGL,31-01-2024,Yahoo Finance,Alphabet stock tumbles after company misses expectations on Google ad revenue,-0.2263,negative
+GOOGL,31-01-2024,Yahoo Canada Finance,Alphabet stock tumbles after company misses expectations on Google ad revenue,-0.2263,negative
+GOOGL,31-01-2024,Yahoo Finance,Alphabet stock slips after missing expectations on Google ad revenue,-0.296,negative
+GOOGL,31-01-2024,Yahoo Canada Finance,Alphabet stock slips after missing expectations on Google ad revenue,-0.296,negative
+GOOGL,31-01-2024,Firstpost,"Alphabet shares take a hit as revenue from Google Search misses estimates, spends exorbitantly high on AI",0.0772,positive
+GOOGL,31-01-2024,Firstpost,"AI stocks crash, companies lose $190 billion as Google, Microsoft, other tech companies reveal earnings",-0.6597,negative
+GOOGL,28-02-2024,CNBC,"Snowflake says Frank Slootman is retiring as CEO, stock plunges 20%",0.0,neutral
+GOOGL,28-02-2024,CNBC,Alphabet AI misstep is latest reason Cramer is getting fed up with the stock,0.0,neutral
+GOOGL,27-02-2024,Seeking Alpha,Stretched Valuations And Gemini PR Blunder Put Google At Risk,-0.2732,negative
+GOOGL,23-02-2024,Seeking Alpha,BUG ETF: Microsoft And Google Are Also Cybersecurity Plays,0.25,positive
+GOOGL,23-02-2024,Seeking Alpha,Google Stock: Making Great Progress In The Cloud (NASDAQ:GOOG),0.7845,positive
+GOOGL,22-02-2024,Quartz India,Nvidia is beating Amazon and Google — again,-0.3182,negative
+GOOGL,22-02-2024,Seeking Alpha,Adobe: AI Headwinds Or AI Tailwinds?,0.0,neutral
+GOOGL,20-02-2024,Quartz India,"Nvidia stock has worst day in months, market cap trails Google, Amazon",-0.5267,negative
+GOOGL,20-02-2024,Seeking Alpha,Google Stock: Why Latest Pullback Presents A Buying Opportunity,0.4215,positive
+GOOGL,18-02-2024,9to5Google,Google Nest Hub and speaker stock is running low,-0.2732,negative
+GOOGL,28-03-2024,The Indian Express,"Today’s Latest Business News, Finance and Share Market News at 5:30 pm on 28 March 2024",0.296,positive
+GOOGL,27-03-2024,Investor's Business Daily,The Next Mag 7 Breakout Nears - With A Little Help From Apple,0.3415,positive
+GOOGL,26-03-2024,Investor's Business Daily,"Dow Jones Futures: Donald Trump Stock Great Again? Tesla Hits Resistance, 5 AI Stocks Near Buy Points",0.6249,positive
+GOOGL,26-03-2024,Seeking Alpha,The Real Reason Why Google Is Lagging: The Bing Reality,-0.2732,negative
+GOOGL,26-03-2024,Seeking Alpha,Google's Waymo Is Finally Moving Full Throttle,0.0,neutral
+GOOGL,25-03-2024,Android Police,Your Google Photos library can now appear in OnePlus and Xiaomi's gallery apps,0.0,neutral
+GOOGL,24-03-2024,Seeking Alpha,"Google Stock: Advantaged, Scaled AI Player At Deep Discount (GOOG,GOOGL)",0.34,positive
+GOOGL,23-03-2024,Seeking Alpha,Google Stock May Be At A Crossroads (NASDAQ:GOOGL),0.0,neutral
+GOOGL,22-03-2024,Yahoo Finance,Analyst unveils Google stock price target after Apple rumors,0.0,neutral
+GOOGL,22-03-2024,Gizmodo,Politicians Who Voted to Ban TikTok May Own as Much as $126 Million in Tech Stocks,-0.5574,negative
+GOOGL,28-04-2024,Yahoo Finance,Analysts unveil Google parent Alphabet stock price targets after earnings,0.0,neutral
+GOOGL,28-04-2024,Seeking Alpha,Google: Exercise Patience Before Buying (Technical Analysis),0.0,neutral
+GOOGL,27-04-2024,Android Authority,The 10 worst changes to stock Android,-0.6249,negative
+GOOGL,26-04-2024,CNBC,Google is 'on the offensive:' What analysts are saying after earnings,-0.4588,negative
+GOOGL,26-04-2024,Quartz India,"Google stock could rally 15% as AI boosts it, analysts say",0.3182,positive
+GOOGL,26-04-2024,Newsweek,"Stock Market Today: Indexes Move Higher on Google, Microsoft Earnings",0.0,neutral
+GOOGL,26-04-2024,Seeking Alpha,Google Stock: At The Cusp Of An Upside Breakout (NASDAQ:GOOG),0.0,neutral
+GOOGL,25-04-2024,Seeking Alpha,Google's Q1 2024 Earnings Shocker: Initiating Dividends And AI Momentum,-0.1531,negative
+GOOGL,25-04-2024,New York Post,"Google's parent announces first-ever dividend, sending shares soaring",0.296,positive
+GOOGL,25-04-2024,Quartz India,"Google stock surges on soaring profits, first cash dividend",0.4404,positive
+GOOGL,28-05-2024,CNBC,HubSpot shares jump on talks of potential Google deal,0.296,positive
+GOOGL,16-05-2024,Yahoo Finance,Alphabet Just Announced Spectacular News for Nvidia Stock Investors,0.0,neutral
+GOOGL,15-05-2024,Quartz India,"Meme stock mania, Google's new AI, and Tesla's universe: Daily Brief",0.0,neutral
+GOOGL,13-05-2024,Seeking Alpha,HubSpot ticks higher amid report of 'compelling' offer from Alphabet,0.2263,positive
+GOOGL,13-05-2024,Seeking Alpha,Alphabet stock dips as Apple reportedly moves closer to OpenAI pact,0.0,neutral
+GOOGL,07-05-2024,9to5Google,"Walmart opens sales of its 'Pro' Google TV box, if you live nearby",0.0,neutral
+GOOGL,28-06-2024,Android Authority,"Google Vids is now available to test for free, ahead of public launch",0.5106,positive
+GOOGL,27-06-2024,Yahoo Finance,Analyst resets Google-parent Alphabet's stock price target after survey,0.0,neutral
+GOOGL,14-06-2024,PhoneArena,"Weekly deals roundup: Get your huge discounts on the Razr+ (2023), Tab S8 Ultra, Pixel 8 Pro, and more!",0.3802,positive
+GOOGL,13-06-2024,9to5Google,Android 'Bot' Mini figure and more back on sale at Dead Zebra,-0.6486,negative
+GOOGL,26-07-2024,Gizchina.com,"OpenAI Announces AI-Powered Search Engine, Challenging Google",0.1531,positive
+GOOGL,25-07-2024,Seeking Alpha,"Google: The More It Drops, The More I’ll Buy (NASDAQ:GOOG)",0.0,neutral
+GOOGL,25-07-2024,Quartz India,"Google, Tesla tech stock selloff will be short, Wedbush says",0.0,neutral
+GOOGL,25-07-2024,The Globe and Mail,Megacap stock selloff shows investor concerns about too much tech,0.0,neutral
+GOOGL,25-07-2024,The Guardian,Stock markets tumble amid jitters over tech companies’ growth,0.3818,positive
+GOOGL,24-07-2024,Quartz India,"Google stock sinks on weak YouTube sales, big AI expenditures",-0.4404,negative
+GOOGL,24-07-2024,BradfordToday,Stock market today: Big Tech slumps after profits from Alphabet and Tesla fail to impress,0.3182,positive
+GOOGL,24-07-2024,Vancouver Is Awesome,Stock market today: Big Tech slumps after profits from Alphabet and Tesla fail to impress,0.3182,positive
+GOOGL,24-07-2024,SooToday,Stock market today: Big Tech slumps after profits from Alphabet and Tesla fail to impress,0.3182,positive
+GOOGL,24-07-2024,BayToday,Stock market today: Big Tech slumps after profits from Alphabet and Tesla fail to impress,0.3182,positive
+GOOGL,30-08-2024,Android Headlines,Pixel 9 Pro Fold stock returns with late October shipping dates,0.0,neutral
+GOOGL,30-08-2024,9to5Google,"Pixel 9 Pro Fold is fully back in stock, shipping in late October",0.0,neutral
+GOOGL,25-08-2024,The Irish Times,"Google turns 20: shareholders celebrate growth of more than 7,500%",0.743,positive
+GOOGL,20-08-2024,Yahoo Finance,Google went public 20 years ago-what your $1000 investment would be worth today,0.2263,positive
+GOOGL,13-08-2024,Seeking Alpha,CXApp rockets 74% on multi-million dollar deal with Google Cloud,0.0,neutral
+GOOGL,09-08-2024,The Globe and Mail,"Lately: Google’s monopoly, Shopify stock and Olympics memes",0.0,neutral
+GOOGL,09-08-2024,Motley Fool Australia,"Why is Nvidia stock still a buy after its steep sell-off? Just ask Amazon, Google, Microsoft, and Meta",0.1779,positive
+GOOGL,06-08-2024,Yahoo Finance,Analysts review Apple stock price hit from Google antitrust ruling,0.0,neutral
+GOOGL,05-08-2024,Seeking Alpha,Google loses antitrust suit over search payments; stock declines further,-0.3182,negative
+GOOGL,27-09-2024,9to5Google,Pixel 9 Pro Fold cases are hard to find in stock right now,-0.1027,negative
+GOOGL,27-09-2024,Yahoo Finance,Analyst update Alphabet stock price target after AI event,0.0,neutral
+GOOGL,26-09-2024,Seeking Alpha,Google: The Downside Is More Significant Than Ever,0.024,neutral
+GOOGL,26-09-2024,Android Authority,Here's your chance to buy the new glow-in-the-dark Android figurine before it runs out,0.25,positive
+GOOGL,23-09-2024,Seeking Alpha,Google: The Scariest Big-Tech Trading After Summer Highs (Rating Downgrade),0.0,neutral
+GOOGL,20-09-2024,TechRadar,The Google Pixel 8 Pro drops to a record-low price at Amazon - and get a free Pixel Watch,0.6124,positive
+GOOGL,20-09-2024,Android Police,Google Pixel Watch 2 is just $75 thanks to this Target stock clearance sale,0.4404,positive
+GOOGL,12-09-2024,Seeking Alpha,Google's Potential Path To $500,0.0,neutral
+GOOGL,11-09-2024,Seeking Alpha,Google: Be Greedy When Others Are Fearful,-0.6705,negative
+GOOGL,11-09-2024,Yahoo Finance,Analyst reboots Google parent's stock price target on DoJ case,0.0,neutral
+GOOGL,31-10-2024,Analytics India Magazine,"OpenAI Finally Brings SearchGPT to ChatGPT, Challenges Google Search, Marks the End of Perplexity AI",0.0772,positive
+GOOGL,31-10-2024,9to5Google,The Google TV Streamer remote is back in stock for $19.99,0.0,neutral
+GOOGL,31-10-2024,Newser,"Trump Media, Eli Lilly Drop",-0.2732,negative
+GOOGL,30-10-2024,ElliotLakeToday.com,Stock market today: Wall Street indexes edge lower as Alphabet jumps and Eli Lilly slumps,-0.296,negative
+GOOGL,30-10-2024,BradfordToday,Stock market today: Wall Street indexes edge lower as Alphabet jumps and Eli Lilly slumps,-0.296,negative
+GOOGL,30-10-2024,Vancouver Is Awesome,Stock market today: Wall Street indexes edge lower as Alphabet jumps and Eli Lilly slumps,-0.296,negative
+GOOGL,30-10-2024,BayToday,Stock market today: Wall Street indexes edge lower as Alphabet jumps and Eli Lilly slumps,-0.296,negative
+GOOGL,30-10-2024,SooToday,Stock market today: Wall Street indexes edge lower as Alphabet jumps and Eli Lilly slumps,-0.296,negative
+GOOGL,30-10-2024,GuelphToday,Stock market today: Wall Street indexes edge lower as Alphabet jumps and Eli Lilly slumps,-0.296,negative
+GOOGL,30-10-2024,Quartz India,Google stock jumps 4% after AI momentum drives earnings,0.0,neutral
+GOOGL,26-11-2024,Yahoo Finance,Billionaire Bill Ackman Has 15% of His Portfolio in This Magnificent Stock: Time to Buy?,0.6833,positive
+GOOGL,21-11-2024,Investor's Business Daily,"Dow Jones Futures: Bulls Run Past Google; 7 Stocks In Buy Zones, MicroStrategy Dives",0.0,neutral
+GOOGL,21-11-2024,The Motley Fool Canada,Why Alphabet Stock Was Sliding Today,0.0,neutral
+GOOGL,21-11-2024,Quartz India,Alphabet stock falls over 5% as Feds push for Google to sell Chrome,0.0,neutral
+GOOGL,20-11-2024,9to5Google,Google TV Streamer,0.0,neutral
+GOOGL,20-11-2024,Investor's Business Daily,Google Stock Preps Breakout As Nvidia Gets Set To Report,0.0,neutral
+GOOGL,19-11-2024,Lifehacker,Use Google Maps to Find Out If a Holiday Gift Is in Stock,0.6808,positive
+GOOGL,08-11-2024,Investor's Business Daily,"Google Stock Claws Back Amid Trump Win, Antitrust Worries, Fierce AI Competition",0.25,positive
+GOOGL,07-11-2024,9to5Google,Pixel 9 Pro Fold official case is finally back in stock,0.0,neutral
+GOOGL,06-11-2024,Quartz India,"Google, Nvidia stock rise while Meta, TSMC fall after Trump election win",0.5859,positive
+GOOGL,30-12-2024,Yahoo Canada Finance,How Google proved it 'still has its mojo' in 2024,0.0,neutral
+GOOGL,30-12-2024,Yahoo Finance,How Google proved it 'still has its mojo' in 2024,0.0,neutral
+GOOGL,20-12-2024,ZDNet,My favorite Android shortcut is a productivity cheat code - and works on older phones,0.0,neutral
+GOOGL,19-12-2024,ZDNet,This useful Android shortcut is my productivity life saver - and it's hidden in plain sight,0.4404,positive
+GOOGL,19-12-2024,ZDNet,This Android shortcut is my productivity life saver - and it's hidden in plain sight,0.0,neutral
+GOOGL,16-12-2024,Investor's Business Daily,"Blue Owl Capital Joins Nvidia, Meta, Google On One Stock List But Snubs Them On Three Others",-0.631,negative
+GOOGL,14-12-2024,The Irish Times,Google boggles minds as it says quantum chip ‘lends credence’ to the existence of a multiverse,0.0,neutral
+GOOGL,12-12-2024,Yahoo Finance,Google’s Quantum Boost Doesn’t Really Compute,0.4019,positive
+GOOGL,11-12-2024,Yahoo Finance,Google Parent Alphabet's Stock Soars to All-Time High,0.0,neutral
+GOOGL,11-12-2024,Livemint,Google’s quantum boost doesn’t really compute,0.4019,positive
+MSFT,27-01-2023,CNBC,"Microsoft, Tesla stock moves hint at positive signs for the market, chart analysts say",0.5574,positive
+MSFT,26-01-2023,CNBC,Microsoft's AI push has some analysts raving about the stock,0.0,neutral
+MSFT,25-01-2023,CNBC,Microsoft's post-earnings stock moves reinforce a key Club rule,0.0,neutral
+MSFT,25-01-2023,Barron's,Microsoft Earnings Beat Expectations. Why the Stock Is Dropping.,0.0,neutral
+MSFT,25-01-2023,Seeking Alpha,"Nasdaq futures slump on Microsoft's caution on revenue; Dow, S&P futures drop",-0.2732,negative
+MSFT,25-01-2023,Investing.com,"Stock market today: Dow ends flat as Microsoft fights back, financials gain",0.1779,positive
+MSFT,24-01-2023,Yahoo Canada Finance,"Microsoft stock rises on Q2 earnings beat, revenue miss",-0.1531,negative
+MSFT,24-01-2023,Investing.com,Stock market today: Dow rises as earnings season heats up; Microsoft Q2 EPS Beats,0.0,neutral
+MSFT,23-01-2023,Seeking Alpha,Microsoft Q2: You Really Need To Watch This,0.0,neutral
+MSFT,23-01-2023,Business Insider,Microsoft Stock Price Could Soar 20% on ChatGPT Bet: Wedbush,0.0,neutral
+MSFT,22-02-2023,Siliconrepublic.com,Microsoft is bringing Xbox PC games to Nvidia GeForce Now,0.0,neutral
+MSFT,22-02-2023,Investing.com,Nvidia Stock Surges as Gaming Drives Earnings Beat,0.0,neutral
+MSFT,21-02-2023,Investor's Business Daily,Cloud Stock Ascends To Top Of Buy Zone As Earnings Accelerate,0.2023,positive
+MSFT,19-02-2023,Business Insider,"Barron's Top Weekend Stock Picks: Blue Skies For Roku, Microsoft's Bing GPT And Tesla Model Y Sells Out",0.2023,positive
+MSFT,17-02-2023,Business Insider,Microsoft 'Leading the Pack' in AI Race and Stock Could Jump 15%,0.0,neutral
+MSFT,16-02-2023,The New York Times,Revenge of the Chatbots,-0.5267,negative
+MSFT,13-02-2023,Investor's Business Daily,Dow Jones Rallies As This Risk Looms; 3 Warren Buffett Stocks Eye Entries,-0.4543,negative
+MSFT,13-02-2023,CNBC,We're concerned about Alphabet’s ad-based business model on two fronts,0.0,neutral
+MSFT,09-02-2023,Barron's,Alphabet Stock Keeps Sliding. Microsoft and Higher Costs From AI Are Threats.,-0.4215,negative
+MSFT,09-02-2023,Devdiscourse,"Chinese state media, AI companies warn of risks in ChatGPT stock frenzy",-0.5859,negative
+MSFT,29-03-2023,Investor's Business Daily,"Market Rally Picks Up Steam, Here's What To Do; 10 Stocks Flashing Buy Signals",0.0,neutral
+MSFT,21-03-2023,Business Insider,Cathie Wood's Ark Adds $11 Million in Microsoft Stock on ChatGPT Craze,-0.1531,negative
+MSFT,17-03-2023,Investor's Business Daily,Microsoft Stock Fueled By Artificial Intelligence In Office Apps,0.4767,positive
+MSFT,17-03-2023,Barron's,Microsoft Stock Spikes. AI News Is Still a Crowd Pleaser.,0.4019,positive
+MSFT,17-03-2023,Investor's Business Daily,"Stock Market Rallies As 11 Bank Giants Aid First Republic, But FRC Dives Late; Apple, Microsoft Flash Buy Signals",0.0,neutral
+MSFT,10-03-2023,CNBC,Credit Suisse's top picks for March include new addition Microsoft,0.5267,positive
+MSFT,06-03-2023,Business Insider,Microsoft Is the Top Software Stock As ChatGPT Will Juice Profits: CS,0.5719,positive
+MSFT,02-03-2023,Barron's,Microsoft's Buy of Activision Could Clear the EU Regulatory Hurdle,0.3818,positive
+MSFT,02-03-2023,Seeking Alpha,Activision stock gains on report EU regulators won't demand Microsoft sell assets,0.5377,positive
+MSFT,28-04-2023,Yahoo Finance,"Stocks open lower as tech earnings, bank drama weigh: Stock market news today",-0.296,negative
+MSFT,28-04-2023,Evening Standard,How to buy Microsoft stock (MSFT),0.0,neutral
+MSFT,28-04-2023,Yahoo Canada Finance,"Stock futures lower as tech earnings, bank drama weigh: Stock market news today",-0.296,negative
+MSFT,28-04-2023,Yahoo Finance,"Stock futures lower as tech earnings, bank drama weigh: Stock market news today",-0.296,negative
+MSFT,28-04-2023,The Globe and Mail,Strategist recommends stock to benefit from AI (and it’s not Microsoft),0.5994,positive
+MSFT,27-04-2023,Devdiscourse,"GLOBAL MARKETS-Wall Street rallies, Treasury yields rise as strong earnings trump weak data",0.296,positive
+MSFT,27-04-2023,Fortune,Amazon shares rise 9% on strong Q1 2023 earnings,0.7351,positive
+MSFT,26-04-2023,Vancouver Is Awesome,"Stock market today: First Republic falls more, tech rallies",0.0,neutral
+MSFT,26-04-2023,BradfordToday,"Stock market today: First Republic falls more, tech rallies",0.0,neutral
+MSFT,26-04-2023,BayToday,"Stock market today: First Republic falls more, tech rallies",0.0,neutral
+MSFT,31-05-2023,Yahoo Finance,Nvidia achieves $1 trillion market cap for the first time as AI-fueled stock surge continues,0.0,neutral
+MSFT,31-05-2023,Yahoo Canada Finance,Nvidia achieves $1 trillion market cap for the first time as AI-fueled stock surge continues,0.0,neutral
+MSFT,31-05-2023,Yahoo Finance,Nvidia achieves $1 trillion market cap for the first time as AI-fueled stock surge continues,0.0,neutral
+MSFT,30-05-2023,Livemint,Nvidia enters $1 trillion club: Missed opportunity or time to buy for Indian investors?,0.1531,positive
+MSFT,25-05-2023,Livemint,Nvidia stock skyrockets after forecast of a huge jump in revenue,0.3182,positive
+MSFT,25-05-2023,Yahoo Canada Finance,"C3.ai, Meta, Microsoft: Trending stocks to watch",0.0,neutral
+MSFT,25-05-2023,CNBC,"Nvidia nears elite trillion-dollar market cap club of Apple, Microsoft, Alphabet and Amazon",0.1779,positive
+MSFT,25-05-2023,Investing.com,Nvidia Earnings and AI Sales-Boost Forecast Send Stock up 25%,0.0,neutral
+MSFT,25-05-2023,Investing.com,Nvidia Earnings Preview: Has the Stock’s Parabolic Run Gone Too Far?,0.0,neutral
+MSFT,23-05-2023,Investor's Business Daily,"NVDA Stock: Nvidia, Microsoft Azure Team On Generative AI",0.0,neutral
+MSFT,28-06-2023,Essentially Sports,"“Yeah I Love Playing Stock Value Games on My PS5”-Fans Remain Unmoved as Activision Blizzard, Microsoft and Sony’s Stocks Change",0.8126,positive
+MSFT,27-06-2023,Investing.com,Snowflake’s AI Partnership With Nvidia to Boost the Buffett-Held Stock,0.4019,positive
+MSFT,26-06-2023,Yahoo Finance,"Nancy Pelosi's husband just snapped up $2.6 million of Apple and Microsoft stock, closing out an options bet that the shares would soar",0.296,positive
+MSFT,23-06-2023,Forbes,Pelosi Exercises $2.6 Million Of Apple And Microsoft Stock Options,0.0,neutral
+MSFT,21-06-2023,Analytics India Magazine,"The Uber Rich Get $150 Billion Richer, Thanks to The AI Boom",0.8805,positive
+MSFT,16-06-2023,Yahoo Finance,Microsoft's market value hits an all-time high of $2.6 trillion as the AI-fueled stock surge continues,0.34,positive
+MSFT,16-06-2023,OnMSFT,Microsoft’s market cap hits all time high of $2.6 trillion,0.0,neutral
+MSFT,16-06-2023,Business Insider,Microsoft Market Value Hits Record $2.6 Trillion As It Rides AI Wave,0.34,positive
+MSFT,15-06-2023,Yahoo Finance,Adobe scared bears away in short-term while facing AI headwinds: Analyst,-0.4404,negative
+MSFT,15-06-2023,Yahoo Finance,Adobe scared bears away in short-term while facing AI headwinds: Analyst,-0.4404,negative
+MSFT,26-07-2023,Yahoo Canada Finance,"Stocks open lower with Fed decision, tech earnings in focus: Stock market news today",-0.296,negative
+MSFT,26-07-2023,Yahoo Finance,"Stocks open lower with Fed decision, tech earnings in focus: Stock market news today",-0.296,negative
+MSFT,26-07-2023,CNBC,Microsoft stock falls as analysts process a delayed AI ramp,-0.2263,negative
+MSFT,26-07-2023,Yahoo Canada Finance,"Stock futures fall with Fed decision, tech earnings in focus: Stock market news today",0.0,neutral
+MSFT,26-07-2023,Yahoo Canada Finance,"Stock futures fall with Fed decision, tech earnings in focus: Stock market news today",0.0,neutral
+MSFT,26-07-2023,Yahoo Finance,"Stock futures fall with Fed decision, tech earnings in focus: Stock market news today",0.0,neutral
+MSFT,26-07-2023,CNBC,Wall Street analysts stay bullish on Microsoft after earnings given its 'unique position' in A.I.,0.0,neutral
+MSFT,26-07-2023,Siliconrepublic.com,Alphabet and Microsoft push past revenue estimates,0.0,neutral
+MSFT,26-07-2023,Business Insider,"Microsoft's Valuation Could Surge $350B Thanks to AI, Wedbush Says",0.4404,positive
+MSFT,26-07-2023,Motley Fool Australia,Microsoft stock falls on quarterly results as revenue growth slows,0.3818,positive
+MSFT,30-08-2023,Business Insider,4 Big Tech Giants Spent Over $1 Trillion on Stock Buybacks in 10 Years,0.0,neutral
+MSFT,26-08-2023,Yahoo Canada Finance,"Apple, Microsoft, Tesla, and Meta see a combined $625 billion wipeout in market value amid August's stock slump",0.34,positive
+MSFT,21-08-2023,Vancouver Is Awesome,Stock market today: Wall Street holds firmer after three-week slide as Big Tech stocks rebound,0.0,neutral
+MSFT,21-08-2023,BradfordToday,Stock market today: Wall Street holds firmer after three-week slide as Big Tech stocks rebound,0.0,neutral
+MSFT,21-08-2023,GuelphToday,Stock market today: Wall Street holds firmer after three-week slide as Big Tech stocks rebound,0.0,neutral
+MSFT,21-08-2023,BayToday,Stock market today: Wall Street holds firmer after three-week slide as Big Tech stocks rebound,0.0,neutral
+MSFT,21-08-2023,SooToday,Stock market today: Wall Street holds firmer after three-week slide as Big Tech stocks rebound,0.0,neutral
+MSFT,21-08-2023,ElliotLakeToday.com,Stock market today: Wall Street holds firmer after three-week slide as Big Tech stocks rebound,0.0,neutral
+MSFT,21-08-2023,Investing.com,Stocks Week Ahead: Is the US Stock Market's Bull Run Finally Over?,0.0,neutral
+MSFT,16-08-2023,Yahoo Canada Finance,"The world's biggest stock investor says if you don't see opportunities in AI, then you are a 'complete moron'",-0.658,negative
+MSFT,25-09-2023,The Motley Fool Canada,Shopify Stock or Microsoft Shares: Better Buy for the AI Revolution?,0.6249,positive
+MSFT,25-09-2023,CNBC,Guggenheim upgrades Microsoft on hopes it can grow from generative AI,0.4215,positive
+MSFT,22-09-2023,Yahoo Finance,Activision nears Microsoft offer price as UK approval in sight,0.4767,positive
+MSFT,20-09-2023,The Australian Financial Review,Microsoft closes in on Apple’s spot as world’s largest stock,0.0,neutral
+MSFT,19-09-2023,Yahoo Finance,Microsoft eyes Apple’s spot as world’s largest stock,0.0,neutral
+MSFT,13-09-2023,Investor's Business Daily,"Tesla, 2 IPOs Corral Herd Of Potential Breakouts In Unruly Market",0.0,neutral
+MSFT,12-09-2023,Business Insider,"S&P 500 Looks Risky, May Plunge 25% If Something Shocks System: Wilson",-0.5267,negative
+MSFT,11-09-2023,New York Post,Bill Gates says Elon Musk was 'super mean to me' after Tesla stock feud,0.3612,positive
+MSFT,11-09-2023,CNBC,Jim Cramer says Microsoft has more room to run on the AI craze,-0.1531,negative
+MSFT,11-09-2023,Fortune,Musk vs Gates: Walter Isaacson bio on Tesla stock feud,-0.34,negative
+MSFT,26-10-2023,Yahoo Canada Finance,Big tech earnings drove a stock market rally. They won't be enough this time,0.0,neutral
+MSFT,26-10-2023,Yahoo Finance,Big tech earnings drove a stock market rally. They won't be enough this time,0.0,neutral
+MSFT,25-10-2023,Motley Fool Australia,Why Microsoft stock was in rally mode on Wednesday,0.0,neutral
+MSFT,25-10-2023,Yahoo Finance,AI is driving divergent paths for big tech stocks,0.0,neutral
+MSFT,25-10-2023,Yahoo Canada Finance,AI is driving divergent paths for big tech stocks,0.0,neutral
+MSFT,25-10-2023,CNBC,Alphabet stock drops on cloud miss as investors praise Microsoft,0.4588,positive
+MSFT,25-10-2023,Yahoo Finance,"Stock market news today: Nasdaq tumbles as Google slides, Microsoft jumps after earnings",0.0,neutral
+MSFT,25-10-2023,Yahoo Canada Finance,"Stock market news today: Nasdaq tumbles as Google slides, Microsoft jumps after earnings",0.0,neutral
+MSFT,25-10-2023,Yahoo Finance,"Microsoft stock jumps after revenue, earnings beats",0.0,neutral
+MSFT,25-10-2023,Yahoo Canada Finance,"Microsoft stock jumps after revenue, earnings beats",0.0,neutral
+MSFT,29-11-2023,Hot Hardware,"Microsoft's Ugly Windows XP Sweater Is Selling Out Fast, Here Are Some Alternatives",0.0085,neutral
+MSFT,27-11-2023,Seeking Alpha,These are the most under-owned large-cap tech stocks - MS,0.0,neutral
+MSFT,27-11-2023,Investing.com,Will US Stocks Lead Global Markets Again in 2024? Big Tech Has the Answer,0.0,neutral
+MSFT,24-11-2023,The Globe and Mail,OpenAI drama this week proved one thing: Investors can’t ignore Microsoft,-0.3612,negative
+MSFT,24-11-2023,Business Insider India,"'Chessmaster' Microsoft CEO Satya Nadella was the true winner from the OpenAI fiasco, Wedbush analyst says",0.5106,positive
+MSFT,24-11-2023,Investing.com,Microsoft May Dethrone Apple as the Most Valuable Stock Soon,0.5256,positive
+MSFT,24-11-2023,Business Insider,Microsoft CEO Satya Nadella Won the Sam Altman OpenAI Fiasco: Wedbush,0.1027,positive
+MSFT,24-11-2023,Investing.com,"Investors are clamoring for OpenAI, Microsoft stock amid Sam Altman drama",0.0,neutral
+MSFT,22-11-2023,Investor's Business Daily,Let's Ask Bard: Is Google Stock A Buy Now?,0.0,neutral
+MSFT,22-11-2023,Seeking Alpha,Nvidia Stock: Competition On The Horizon (NASDAQ:NVDA),0.0,neutral
+MSFT,26-12-2023,Yahoo Finance,"1 Growth Stock That Could Join Alphabet, Nvidia, Apple, and Microsoft in the $1 Trillion Club by 2030",0.5859,positive
+MSFT,21-12-2023,CNBC,Microsoft surges 55% this year. Why the stock could go even higher in 2024,0.0,neutral
+MSFT,21-12-2023,Yahoo Finance,You Won't Believe My Shocking Microsoft Stock Prediction for 2024,0.3089,positive
+MSFT,21-12-2023,Business Insider,"Which Investors Bought Nvidia, Tesla, Microsoft Stock and Which Sold",0.0,neutral
+MSFT,19-12-2023,Yahoo Finance,"1 Incredible Stock on Its Way to Join Alphabet, Amazon, Apple, Microsoft, and Nvidia in the $1 Trillion Club in 2024",0.4404,positive
+MSFT,16-12-2023,Yahoo Finance,Forget Microsoft: Buy This Artificial Intelligence (AI) Stock Poised for a Bull Run Instead,0.4939,positive
+MSFT,16-12-2023,Yahoo Finance,"2 Reasons to Buy Microsoft Stock, and 1 Reason to Sell",0.0,neutral
+MSFT,14-12-2023,CNBC,"CrowdStrike CEO George Kurtz on China, Microsoft and the SEC",0.0,neutral
+MSFT,12-12-2023,Yahoo Finance,"1 Unstoppable Stock Set to Join Apple, Microsoft, Amazon, Alphabet, and Nvidia in the $1 Trillion Club in 2024",0.2732,positive
+MSFT,08-12-2023,Seeking Alpha,Google Crushes Microsoft's AI Monopoly,-0.4404,negative
+MSFT,31-01-2024,Motley Fool Australia,"Yes, Microsoft is a star AI stock, but this is what really powered its solid second-quarter results",0.4846,positive
+MSFT,31-01-2024,Seeking Alpha,Microsoft Fiscal Q2 Stock: Leading The AI Race With Growing Profits And Margins,0.5574,positive
+MSFT,31-01-2024,Investor's Business Daily,Stock Market Mixed While Google And Microsoft Drop,-0.2732,negative
+MSFT,31-01-2024,Firstpost,"AI stocks crash, companies lose $190 billion as Google, Microsoft, other tech companies reveal earnings",-0.6597,negative
+MSFT,31-01-2024,New York Post,AI companies lose $190 billion in market cap after Alphabet and Microsoft report,-0.4019,negative
+MSFT,30-01-2024,The Guardian,Microsoft’s Activision acquisition and bets on AI yield high quarterly revenue,0.0,neutral
+MSFT,30-01-2024,Yahoo Finance,Microsoft (MSFT) Tops Q2 Earnings and Revenue Estimates,0.5106,positive
+MSFT,30-01-2024,Business Insider India,US stock trades mixed as investors wait on mega-cap tech results to kick off,0.0,neutral
+MSFT,30-01-2024,Yahoo Canada Finance,Stock market today: Nasdaq falls ahead of Big Tech earnings,0.0,neutral
+MSFT,30-01-2024,Yahoo Finance,Stock market today: Nasdaq falls ahead of Big Tech earnings,0.0,neutral
+MSFT,29-02-2024,Forbes,Apple Stock Near 4-Month Low As AI Questions Linger,-0.2732,negative
+MSFT,28-02-2024,Yahoo Finance,"1 Unstoppable Stock Set to Join Nvidia, Apple, Microsoft, Amazon, Alphabet, and Meta in the $1 Trillion Club",0.2732,positive
+MSFT,28-02-2024,Business Insider,NANC ETF Tracking Democrat Stock Trades Beating S&P 500 on Tech Bets,-0.4588,negative
+MSFT,27-02-2024,Seeking Alpha,Microsoft: Challenging AWS's Leadership In Cloud,0.1531,positive
+MSFT,26-02-2024,Investing.com,Will Druckenmiller Help Power Coupang Stock Higher?,0.4019,positive
+MSFT,23-02-2024,Investor's Business Daily,"Dow Jones Futures: Nvidia Eyes New Milestone, AMD Setting Up, But Stock Market Needs This",0.0,neutral
+MSFT,23-02-2024,Seeking Alpha,BUG ETF: Microsoft And Google Are Also Cybersecurity Plays,0.25,positive
+MSFT,22-02-2024,Investor's Business Daily,How The RSI Momentum Tool Helped Confirm Microsoft's 2021 Top,0.2023,positive
+MSFT,22-02-2024,Seeking Alpha,Adobe: AI Headwinds Or AI Tailwinds?,0.0,neutral
+MSFT,21-02-2024,Investor's Business Daily,Intel Stock: Chipmaker Building Foundry For AI Era,0.0,neutral
+MSFT,31-03-2024,Yahoo Finance,"Will Artificial Intelligence (AI) Allow Nvidia to Crush Apple and Microsoft, and Become the Most Valuable ""Magnificent Seven"" Stock?",0.8995,positive
+MSFT,26-03-2024,Yahoo Finance,"1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta in the $1 Trillion Club",0.2732,positive
+MSFT,26-03-2024,Business Insider,Microsoft Stock Price Has 18% Upside on Wide AI Copilot Adoption: Wedbush,0.0,neutral
+MSFT,22-03-2024,Gizmodo,Politicians Who Voted to Ban TikTok May Own as Much as $126 Million in Tech Stocks,-0.5574,negative
+MSFT,22-03-2024,Business Insider,Alphabet Stock to Pop 15% As Google Is a Clear Winner in AI: Wedbush,0.7506,positive
+MSFT,21-03-2024,Forbes,Apple Stock Falls As Rival Microsoft Stock Hits Record,0.0,neutral
+MSFT,18-03-2024,Seeking Alpha,"Biggest stock movers today: NVDA, GOOG, FOUR and more",0.0,neutral
+MSFT,17-03-2024,Yahoo Finance,"Which Artificial Intelligence (AI) Stock Is Wall Street Most Bullish About: AMD, Amazon, Google, Microsoft, or Nvidia?",0.5859,positive
+MSFT,16-03-2024,Business Insider,MSFT Stock Forecast: 3 Explosive Reasons to Own Microsoft Now,0.0,neutral
+MSFT,15-03-2024,Investor's Business Daily,"Dow Jones Futures: Stock Market Awaits Nvidia, Microsoft AI Events, Fed Meeting",0.0772,positive
+MSFT,26-04-2024,Yahoo Finance,Analysts revamp Microsoft stock price target after earnings,0.0,neutral
+MSFT,26-04-2024,Yahoo Finance,"How major US stock indexes fared Friday, 4/26/2024",0.0,neutral
+MSFT,26-04-2024,Business Insider India,Stock market today: Indexes jump to close best week since November as investors cheer tech earnings,0.8176,positive
+MSFT,26-04-2024,GuelphToday,Stock market today: Alphabet and Microsoft push Wall Street to its first winning week in a month,0.5267,positive
+MSFT,26-04-2024,ElliotLakeToday.com,Stock market today: Alphabet and Microsoft push Wall Street to its first winning week in a month,0.5267,positive
+MSFT,26-04-2024,Vancouver Is Awesome,Stock market today: Alphabet and Microsoft push Wall Street to its first winning week in a month,0.5267,positive
+MSFT,26-04-2024,BradfordToday,Stock market today: Alphabet and Microsoft push Wall Street to its first winning week in a month,0.5267,positive
+MSFT,26-04-2024,SooToday,Stock market today: Alphabet and Microsoft push Wall Street to its first winning week in a month,0.5267,positive
+MSFT,26-04-2024,BayToday,Stock market today: Alphabet and Microsoft push Wall Street to its first winning week in a month,0.5267,positive
+MSFT,26-04-2024,Seeking Alpha,"Stock Market News Today: Markets jump on Microsoft, Alphabet boost (SP500)",0.4019,positive
+MSFT,31-05-2024,Livemint,Nvidia may surpass Apple as world's second-most valuable company due to boost from AI applications,0.7003,positive
+MSFT,30-05-2024,Devdiscourse,Federal Reserve's Rate Decisions Loom Over U.S. Markets,-0.2263,negative
+MSFT,28-05-2024,Yahoo Finance,"1 Unstoppable Stock That Could Join Nvidia, Microsoft, Apple, Amazon, Alphabet, and Meta in the $1 Trillion Club",0.2732,positive
+MSFT,26-05-2024,Yahoo Finance,"Could This ""Magnificent Seven"" Stock Become the First $10 Trillion Company by 2035?",0.5994,positive
+MSFT,25-05-2024,Yahoo Finance,"1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta Platforms in the $1 Trillion Club",0.2732,positive
+MSFT,25-05-2024,Yahoo Finance,Is It Time to Dump Nvidia Stock for Advanced Micro Devices After Microsoft Announcement?,-0.1531,negative
+MSFT,21-05-2024,Yahoo Finance,Analysts reboot Qualcomm stock price target on Microsoft deal,0.0,neutral
+MSFT,18-05-2024,Yahoo Finance,"1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta in the $1 Trillion Club",0.2732,positive
+MSFT,16-05-2024,Yahoo Finance,"1 Extraordinary Stock Set to Join Microsoft, Apple, Nvidia, and Alphabet in the $2 Trillion Club",0.296,positive
+MSFT,16-05-2024,The Motley Fool Canada,Better AI Buy: Microsoft vs. Alphabet Stock,0.4404,positive
+MSFT,28-06-2024,Yahoo Finance,"1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta in the $1 Trillion Club",0.2732,positive
+MSFT,25-06-2024,Evening Standard,Nvidia sees around £339bn wiped off market value in three-day sell-off,0.34,positive
+MSFT,21-06-2024,Yahoo Finance,"1 Unstoppable Stock That Could Join Microsoft, Apple, Nvidia, Alphabet, Amazon, and Meta in the $1 Trillion Club",0.2732,positive
+MSFT,18-06-2024,Yahoo Finance,"Stock market today: S&P 500, Nasdaq notch records as Nvidia takes crown from Microsoft as most valuable stock",0.5256,positive
+MSFT,18-06-2024,The New York Times,"Nvidia Becomes Most Valuable Public Company, Topping Microsoft and Apple",0.5256,positive
+MSFT,18-06-2024,Yahoo Canada Finance,"Stock market today: S&P 500, Nasdaq notch records as Nvidia takes crown from Microsoft as most valuable stock",0.5256,positive
+MSFT,18-06-2024,Yahoo Canada Finance,Nvidia overtakes Microsoft as most valuable stock in the world,0.5256,positive
+MSFT,18-06-2024,Devdiscourse,"Nvidia Soars as AI King, Surpasses Microsoft in Market Value",0.34,positive
+MSFT,18-06-2024,Sky News,Nvidia overtakes Microsoft to become world's most valuable public company,0.5256,positive
+MSFT,18-06-2024,The Globe and Mail,Nvidia eclipses Microsoft as world’s most valuable company,0.5256,positive
+MSFT,31-07-2024,Yahoo Finance,Microsoft and AMD’s results perfectly illustrate the two sides of the AI trade,0.6369,positive
+MSFT,31-07-2024,Yahoo Finance,"Nancy Pelosi Loads Up On More Nvidia Shares, Sells Part Of Microsoft Stake Before Q4 Earnings",0.3566,positive
+MSFT,31-07-2024,Yahoo Finance,"Midday movers: Nvidia stock jumps, AMD, Tesla up, Microsoft sinks",0.0,neutral
+MSFT,31-07-2024,Yahoo Finance,Microsoft stock drops after results fall short in latest AI disappointment,-0.5106,negative
+MSFT,31-07-2024,Firstpost,"US stock market: Big tech slump drags Wall Street, overshadows broad market gains ahead of interest rate decision",0.5719,positive
+MSFT,30-07-2024,Yahoo Finance,Microsoft stock drops over 6% after results fall short in latest AI disappointment,-0.5106,negative
+MSFT,30-07-2024,Seeking Alpha,"Lumen leaps by intraday record of 77%, set to extend win streak",0.6705,positive
+MSFT,29-07-2024,Business Insider,"Stock Market Today: Investors Await Wave of Data From Earnings, July Fed",0.1027,positive
+MSFT,28-07-2024,CNBC,Stock futures rise slightly ahead of loaded week for tech earnings,0.0,neutral
+MSFT,27-07-2024,Yahoo Finance,A Once-in-a-Generation Investment Opportunity: 1 Spectacular Artificial Intelligence (AI) Stock to Buy Now and Hold Forever,0.7096,positive
+MSFT,29-08-2024,Firstpost,"NVIDIA's stock slips 7%, forecast pulls down other tech stocks as AI enthusiasm gets a caution",0.4404,positive
+MSFT,28-08-2024,BradfordToday,Stock market today: Losses for Big Tech companies lead Wall Street lower,-0.5994,negative
+MSFT,28-08-2024,BayToday,Stock market today: Losses for Big Tech companies lead Wall Street lower,-0.5994,negative
+MSFT,28-08-2024,SooToday,Stock market today: Losses for Big Tech companies lead Wall Street lower,-0.5994,negative
+MSFT,28-08-2024,GuelphToday,Stock market today: Losses for Big Tech companies lead Wall Street lower,-0.5994,negative
+MSFT,28-08-2024,ElliotLakeToday.com,Stock market today: Losses for Big Tech companies lead Wall Street lower,-0.5994,negative
+MSFT,28-08-2024,Vancouver Is Awesome,Stock market today: Losses for Big Tech companies lead Wall Street lower,-0.5994,negative
+MSFT,26-08-2024,Seeking Alpha,Microsoft: Rule Of 40 Points To Buy,0.0,neutral
+MSFT,22-08-2024,Yahoo Finance,Analyst revisits Microsoft stock price target after AI reporting change,0.0,neutral
+MSFT,20-08-2024,Yahoo Finance,Microsoft's dominant 21st century offers a key lesson for stock market investors: Morning Brief,0.0,neutral
+MSFT,23-09-2024,Yahoo Canada Finance,Microsoft stock receives rare downgrade as analyst says it's 'beholden' to Nvidia,0.0,neutral
+MSFT,23-09-2024,Yahoo Finance,Microsoft stock receives rare downgrade as analyst says it's 'beholden' to Nvidia,0.0,neutral
+MSFT,19-09-2024,Yahoo Finance,"1 Stock-Split Stock Set to Join Nvidia, Apple, Microsoft, Amazon, Alphabet, and Meta In the $1 Trillion Club",0.4404,positive
+MSFT,18-09-2024,TechRadar,Microsoft announces biggest-ever share buyback scheme to help boost investment,0.765,positive
+MSFT,17-09-2024,CNBC,Here are the fundamental and the technical reasons that Microsoft stock can be bought,0.0,neutral
+MSFT,17-09-2024,Yahoo Finance,"Midday stock movers: Microsoft, Intel, Dell",0.0,neutral
+MSFT,17-09-2024,Yahoo Finance,Microsoft Raises Its Dividend 10% and Announces $60B Stock Buyback Program,0.0,neutral
+MSFT,04-09-2024,CNBC,Cramer names Microsoft (MSFT) as No. 1 underappreciated megacap to buy,0.0,neutral
+MSFT,01-11-2024,Motley Fool Australia,Why Microsoft stock is sinking today,0.0,neutral
+MSFT,31-10-2024,GuelphToday,"Stock market today: Microsoft, Meta and the burden of expectations knock Wall Street sharply lower",-0.6249,negative
+MSFT,31-10-2024,ElliotLakeToday.com,"Stock market today: Microsoft, Meta and the burden of expectations knock Wall Street sharply lower",-0.6249,negative
+MSFT,31-10-2024,BradfordToday,"Stock market today: Microsoft, Meta and the burden of expectations knock Wall Street sharply lower",-0.6249,negative
+MSFT,31-10-2024,BayToday,"Stock market today: Microsoft, Meta and the burden of expectations knock Wall Street sharply lower",-0.6249,negative
+MSFT,31-10-2024,SooToday,"Stock market today: Microsoft, Meta and the burden of expectations knock Wall Street sharply lower",-0.6249,negative
+MSFT,31-10-2024,Vancouver Is Awesome,"Stock market today: Microsoft, Meta and the burden of expectations knock Wall Street sharply lower",-0.6249,negative
+MSFT,31-10-2024,CNBC,Microsoft stock has worst day in two years on disappointing forecast,-0.8074,negative
+MSFT,31-10-2024,ElliotLakeToday.com,Stock market today: Wall Street opens lower as Big Tech stocks pull back,-0.296,negative
+MSFT,31-10-2024,Vancouver Is Awesome,Stock market today: Wall Street opens lower as Big Tech stocks pull back,-0.296,negative
+MSFT,29-11-2024,Yahoo Finance,"Microsoft FTC probe 'not a complete shocker,' analyst says",0.1139,positive
+MSFT,19-11-2024,Investor's Business Daily,C3.ai Jumps On Microsoft Cloud Partnership Targeting Enterprise Market,0.0,neutral
+MSFT,08-11-2024,Firstpost,"NVIDIA stock rallies to record high as Trump’s re-election causes frenzy in AI, chip sector",-0.3182,negative
+MSFT,04-11-2024,Yahoo Finance,"Constellation Energy, nuclear stocks plummet after regulators block Amazon power deal",-0.0258,neutral
+MSFT,04-11-2024,Yahoo Canada Finance,"Constellation Energy, nuclear stocks plummet after regulators block Amazon power deal",-0.0258,neutral
+MSFT,01-11-2024,Motley Fool Australia,Why Microsoft stock is sinking today,0.0,neutral
+MSFT,30-12-2024,Yahoo Finance,"How major US stock indexes fared Monday, 12",0.0,neutral
+MSFT,25-12-2024,Yahoo Finance,Analyst reworks Microsoft stock price target in software review,0.0,neutral
+MSFT,22-12-2024,Yahoo Canada Finance,Billionaire Steve Ballmer has more than 80% of his portfolio in Microsoft stock and advises everyday investors to ‘keep it simple’,0.0,neutral
+MSFT,16-12-2024,Motley Fool Australia,Guess which ASX 200 tech stock just crashed 13% on news from Microsoft?,0.0,neutral
+MSFT,12-12-2024,Yahoo Finance,Veteran trader reviews Microsoft stock price target after bitcoin showdown,0.0,neutral
+MSFT,12-12-2024,Investor's Business Daily,Stock Market Today,0.0,neutral
+MSFT,11-12-2024,Investor's Business Daily,"Microsoft Stock Surpasses New Buy Point, Posts Highest Close In Nearly 5 Months; Why It's A Buy Again",0.0,neutral
+MSFT,10-12-2024,Yahoo Finance,"Bill Gates Could Go Bankrupt If Tesla Stock Surges 200% To Become The Top Company, Says Elon Musk",-0.4215,negative
+MSFT,08-12-2024,Yahoo Finance,"Meet the Stock-Split Stock That Soared 10,610% Over the Past 15 Years. It's Poised to Join Apple, Nvidia, Microsoft, Amazon, Alphabet, and Meta in the $1 Trillion Club by 2025.",0.5994,positive
+MSFT,06-12-2024,Windows Central,Microsoft ends production on Surface Studio 2+ as stock dwindles,0.0,neutral

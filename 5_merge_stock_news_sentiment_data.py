@@ -3,14 +3,10 @@ from collections import defaultdict
 from datetime import datetime
 
 client = MongoClient("mongodb://localhost:27017/")
-db = client["stock_prediction"]
+db = client["stock_prediction_regression"]
 stock_col = db["historical_prices"]
 news_col = db["news_sentiment_gnews"]
 merged_col = db["merged_stock_gnews"]
-
-# print(list(news_col.find({"ticker": "AAPL", "date": "2025-04-08"})))
-# print(list(stock_col.find({"symbol": "AAPL", "timestamp": {"$regex": "^2025-04-08"}})))
-
 
 news_cursor = news_col.find({})
 news_grouped = defaultdict(lambda: {"total_score": 0, "count": 0})
@@ -25,8 +21,8 @@ stock_cursor = stock_col.find({})
 merged_docs = []
 
 for stock_doc in stock_cursor:
-    ticker = stock_doc["symbol"]
-    date = stock_doc["timestamp"][:10] # YYYY MM DD
+    ticker = stock_doc["ticker"]
+    date = stock_doc["date"]
 
     key = (ticker, date)
     news_info = news_grouped.get(key, {"total_score": 0, "count": 0})
