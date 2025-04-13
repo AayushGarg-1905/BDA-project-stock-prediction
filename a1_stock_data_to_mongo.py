@@ -2,9 +2,12 @@ import pandas as pd
 import yfinance as yf
 from pymongo import MongoClient
 from datetime import datetime
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
 
-client = MongoClient("mongodb://localhost:27017")  
+client = MongoClient(os.getenv("MONGO_URL"))  
 db = client['stock_prediction_regression']
 stock_col = db['historical_prices']
 

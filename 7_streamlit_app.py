@@ -13,8 +13,11 @@ from a3_feature_engineering_news_data import convert_date_format_in_csv
 from a4_store_news_data_to_mongo import insert_news_sentiment_to_mongo
 from a5_merge_stock_news_sentiment_data import merge_stock_and_news_data
 import datetime
+from dotenv import load_dotenv
 
-client = MongoClient("mongodb://localhost:27017")
+load_dotenv()
+
+client = MongoClient(os.getenv("MONGO_URL"))
 db = client["stock_prediction_regression"]
 collection = db["merged_stock_gnews"]
 

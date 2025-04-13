@@ -1,8 +1,12 @@
 from pymongo import MongoClient
 from collections import defaultdict
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 def merge_stock_and_news_data(
-    mongo_uri="mongodb://localhost:27017/",
+    mongo_uri=os.getenv("MONGO_URL"),
     db_name="stock_prediction_regression",
     stock_collection="historical_prices",
     news_collection="news_sentiment_gnews",

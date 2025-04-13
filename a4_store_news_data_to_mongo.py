@@ -1,7 +1,11 @@
 import pandas as pd
 from pymongo import MongoClient
+from dotenv import load_dotenv
+import os
 
-def insert_news_sentiment_to_mongo(csv_path: str, mongo_uri: str = "mongodb://localhost:27017",
+load_dotenv()
+
+def insert_news_sentiment_to_mongo(csv_path: str, mongo_uri = os.getenv("MONGO_URL"),
                                    db_name: str = "stock_prediction_regression",
                                    collection_name: str = "news_sentiment_gnews"):
     client = MongoClient(mongo_uri)
